@@ -1,0 +1,1106 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-24T13:40:56+08:00",
+ "items": [
+  {
+   "id": 115,
+   "title": "七牛云 Conatus Free：实名每天 1 亿 Token 免费（11 月 30 日截止）",
+   "summary": "七牛云 1024 活动限时免费模型 qiniu/conatus-free：实名认证后每天 1 亿 Token，OpenAI 兼容（api.qnaigc.com/v1）与 Messages 协议双通道，可接 DSH/Codex/Claude Code，1M 上下文、128K 输出，支持工具调用、深度思考、图像理解。每天 00:00 重置不结转，11 月 30 日 23:59 停服。用超直接拒单、不扣余额、不自动转付费。2026-11-24 官方活动页逐字复核确认。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://www.qiniu.com/ai/free-models/conatus-2026",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T03:46:53.590Z"
+  },
+  {
+   "id": 116,
+   "title": "智谱 AutoClaw 每周福利：登录领 100M Tokens（国内版，11 月 29 日截止）",
+   "summary": "智谱 AutoClaw 本周福利 M11W4：11 月 23 日 00:00 至 11 月 29 日 23:59（北京时间）登录客户端即领 Tokens，每账号一次，11 月 29 日 23:59 失效。国内版 100M Tokens（10,000 积分），国际版 50M。额度仅限 AutoClaw 客户端内消耗（GLM-5.3-Flash 等内置模型），不能导出为 API Key、接不进 Claude Code/DSH。2026-11-24 官方国际站博客已核实 50M 福利存在；国内版 100M 为多家中文追踪源一致口径，以客户端实际到账为准。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://autoclaw.z.ai/en/blog/news/M11W4/",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T03:46:53.590Z"
+  },
+  {
+   "id": 91,
+   "title": "Ponytail：让 AI Agent 像最“懒”的资深开发一样思考",
+   "summary": "约197,545星，7天+5,439。“能不写的代码就不写”的 Agent 技能，可装进 DSH 省 token、省改动。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/DietrichGebert/ponytail",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 92,
+   "title": "OpenMotion：开源 Claude Motion / CapCut 平替",
+   "summary": "约15,733星，7天+5,315。给参考视频就能用 HTML 代码复刻成可编辑动态视频，明确支持 DSH，免费开源。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/nexu-io/openmotion",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 93,
+   "title": "AutoClip：开源 AI 视频剪辑，一个链接一键出片",
+   "summary": "约14,452星，7天+2,901。自动把长视频剪成短视频，生成字幕、封面和发布文案，适配抖音/小红书/TikTok。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/zhouxiaoka/autoclip",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 94,
+   "title": "app-store-compliance：上架前合规手册与扫描器，避开拒审",
+   "summary": "约5,012星。124 条 App Store / Google Play 拒审模式与修复方法，正合家族生意安卓小应用的上架准备。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/mjmirza/app-store-compliance",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 95,
+   "title": "MarkItDown：微软开源，各种文件一键转 Markdown",
+   "summary": "约198,097星，7天+2,320。PDF/Word/Excel/PPT 转干净 Markdown，方便喂给 Agent 与记忆库。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/microsoft/markitdown",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 96,
+   "title": "fast-anything：只优化最慢的 5%，不用重写整个项目",
+   "summary": "约3,155星，11月21日新建。给 Python/Node/Ruby 应用做性能分析，让 Agent 只移植最慢的 5% 函数。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/EL4CTEO/fast-anything",
+   "category": "github",
+   "imageUrl": "https://opengraph.githubassets.com/18808db41e0a270b4ee7d138a3eace5c919dba1c9732a5048eaa9828b35ba0c0/EL4CTEO/fast-anything",
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 97,
+   "title": "Cursor Plugins：官方插件规范与插件集合",
+   "summary": "约18,829星。Cursor 官方插件规范与插件集合，Agent Skills 开放标准写法，值得对照参考。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/cursor/plugins",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 98,
+   "title": "Claude Code 项目文件大规模泄露密钥",
+   "summary": "GitGuardian 扫描发现数万凭证写入 .claude/settings.local.json 并流入公开仓库与镜像，提醒检查并轮换凭证。",
+   "sourceName": "AI Agent Store",
+   "sourceUrl": "https://aiagentstore.ai/ai-agent-news/topic/coding",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 99,
+   "title": "VS Code 1.146 弃用旧版 Local harness，2027 年 2 月移除",
+   "summary": "VS Code 1.146 弃用旧版 Local harness，2027 年 2 月移除；新 Copilot harness 成唯一路线，自定义配置不会自动迁移。",
+   "sourceName": "Hamidun News",
+   "sourceUrl": "https://news.hamidun.com/en/news/17314/vs-code-to-remove-the-legacy-local-harness-for-copilot-agent",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 100,
+   "title": "GitHub Copilot 本周更新：5 款模型 12 月 14 日退役",
+   "summary": "Claude Fable 5、Gemini 3.8 Flash 等 5 款模型 12 月 14 日退役；Fusion 多模型路由扩展，评审可自定深浅并查密钥。",
+   "sourceName": "GitHub Release Notes",
+   "sourceUrl": "https://releases.sh/github",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 101,
+   "title": "开源新模型 Clover-35B-A3B-Preview：35B 扩散 MoE，仅 3B 激活",
+   "summary": "DiffuSpace 发布 35B 总参数、仅 3B 激活的扩散 MoE 语言模型，带思考模式、开放权重，定位 Agent 编程。",
+   "sourceName": "ExplainX",
+   "sourceUrl": "https://www.explainx.ai/blog/topics/ai-agents",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 102,
+   "title": "Google 发布 Gemini 4 Neon：1M 上下文，$3/$15",
+   "summary": "11月18日上线，1M 上下文，面向软件工程与科学场景；Google AI Pro / Ultra 用户同步收到，定价 $3/$15。",
+   "sourceName": "The Durability Curve",
+   "sourceUrl": "https://durabilitycurve.com/chart/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 103,
+   "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol",
+   "summary": "11月17日上线，Astra 负责最难的任务、Sol 负责日常任务，Astra 比上一代便宜约 20%，ChatGPT Plus 用户可在 Codex 里试用。",
+   "sourceName": "MarkTechPost",
+   "sourceUrl": "https://www.marktechpost.com/category/editors-pick/new-releases/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 104,
+   "title": "OpenAI 推出新 Agent 搭建模块：Responses API + Agents SDK",
+   "summary": "Responses API 把易用性与工具调用合到一个入口，支持网页搜索、文件搜索和电脑操作，并可逐步追踪 Agent 行为。",
+   "sourceName": "ENMNEWS",
+   "sourceUrl": "https://enmnews.com/2026/11/23/openai-rolls-out-new-agent-building-blocks",
+   "category": "ai",
+   "imageUrl": "https://enmnews.com/sites/default/files/styles/news_card/public/news-images/stock/2862f0d41b9fa166552b7b5bb31d5e762549d901fb7e745193ed5d9fdcf88042.jpg.avif?itok=fYTaZh8J",
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 105,
+   "title": "MCP 进入固定半年发布节奏，SDK 每周下载 1.37 亿次",
+   "summary": "11月11日确立 6 个月发布周期，SDK 每周下载 1.37 亿次；Anthropic 同期推出自托管 Claude Managed Agents。",
+   "sourceName": "AgentLedGrowth",
+   "sourceUrl": "https://agentledgrowth.com/research/state-of-affairs-november-2026",
+   "category": "ai",
+   "imageUrl": "https://agentledgrowth.com/generated/news-airtable-launches-superagent-standalone-product-20260127.png",
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 106,
+   "title": "蛋白粉+力量训练荟萃分析：卧推+2.63kg、深蹲+7.40kg，但 12 周后效应消失",
+   "summary": "23 项试验 611 人：卧推 1RM +2.63kg、深蹲 +7.40kg，但 12 周以上试验里效果消失，异质性极高。",
+   "sourceName": "Supplement Note",
+   "sourceUrl": "https://supplementnote.jp/protein/research-monthly/2026-11.html",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 107,
+   "title": "限时进食+运动，脂肪多减 1.85kg",
+   "summary": "8 项试验荟萃分析：运动基础上再限时进食，脂肪多减 1.85kg；配合力量训练可维持瘦体重与肌力，证据确定性“低”。",
+   "sourceName": "FITPEAK",
+   "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/time-restricted-eating-exercise-fat-mass-network-meta-2026",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 108,
+   "title": "新枫之谷经典版 v2.0「遗忘之谷」更新：60 级腐烂蘑菇王登场",
+   "summary": "11月18日更新：新增遗忘幽谷区域、60 级野外头目腐烂蘑菇王、15 把新武器，制作专业上限开放到 9 级。",
+   "sourceName": "U4N",
+   "sourceUrl": "https://www.u4n.com/tw/news/maplestory-classic-world-v2-0-forgotten-hollow-patch-notes.html",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 109,
+   "title": "冒险岛感恩节与月兔任务截止提醒：12 月 8/9 日截止",
+   "summary": "感恩节任务 12 月 8 日结束、月兔年糕组队任务 12 月 9 日结束、每日签到持续到 12 月 16 日。",
+   "sourceName": "U4N",
+   "sourceUrl": "https://www.u4n.com/tw/news/maplestory-classic-world-november-update-forgotten-hollow-preview.html",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 110,
+   "title": "Light Lens Lab 40mm f/2 “Hua”：每支都独一无二的限量镜头",
+   "summary": "每支镜片都用了修复版 vintage 玻璃，六片四组、最近对焦 0.5 米；$250，11 月 23 日开订，小批量出货。",
+   "sourceName": "PetaPixel",
+   "sourceUrl": "https://petapixel.com/2026/11/23/no-two-copies-of-light-lens-labs-new-40mm-f-2-hua-lens-are-the-same/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 111,
+   "title": "DxO 11 月新增 842 个镜头校正模块",
+   "summary": "支持刚上市的佳能 R8 Mark II、尼康 Z5 IIC、适马 20-60mm，以及五支唯卓仕大光圈定焦。",
+   "sourceName": "DxO",
+   "sourceUrl": "https://www.dxo.com/en/news/optics-modules-november-2026",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 112,
+   "title": "英伟达恢复黄仁勋总裁、CEO 及董事职务，股价单日涨 31.5%",
+   "summary": "英伟达 11 月 23 日宣布即日起恢复黄仁勋全部职务，此前他因婚外情与间谍风波辞职不到两周；股价当天大涨 31.5%。",
+   "sourceName": "Kyodo News",
+   "sourceUrl": "https://english.kyodonews.net/articles/-/92344",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 113,
+   "title": "英国曼彻斯特演唱会现不明物质，逾 1.2 万人紧急疏散",
+   "summary": "11 月 22 晚曼彻斯特 Co-op Live 体育馆演唱会期间出现不明物质，超 1.2 万名观众被疏散，警方列为重大事件调查。",
+   "sourceName": "中国新闻网",
+   "sourceUrl": "https://whatshot.top/news/chinanews-channels?type=world&view=today&historySort=bestRank",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 114,
+   "title": "塔吉克斯坦通知退出国际刑事法院",
+   "summary": "普京到访当天，塔吉克斯坦向联合国通报退出国际刑事法院，成为美国施压后第四个退出国。",
+   "sourceName": "Keyabode",
+   "sourceUrl": "https://keyabode.eu/news/eyedrpx",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-24T02:04:48.100Z"
+  },
+  {
+   "id": 90,
+   "title": "Cloudflare Workers AI：每天免费 10,000 Neurons 推理额度",
+   "summary": "Cloudflare Workers AI 永久免费档：每天 10,000 Neurons 推理额度，无需信用卡，可调用 Llama、Qwen、GPT-OSS 等开源模型与 Whisper 语音转写，适合给 DSH Agent 做备用推理源。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T05:44:50.266Z"
+  },
+  {
+   "id": 89,
+   "title": "Epic免费领《Mark of the Deep》（原价$19.99）",
+   "summary": "Epic本周免费游戏：海盗题材类银河战士恶魔城+魂系动作冒险，扮演海盗新秀Marcus Ramsey探索诅咒岛屿、寻找失踪船员，80+敌人、16个Boss。11月19日—11月26日16:00 UTC免费领取，入库后永久保留。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T03:45:28.411Z"
+  },
+  {
+   "id": 67,
+   "title": "REA：让 AI Agent 逆向分析任意应用与原生二进制文件",
+   "summary": "474,172 星，7 天 +12,919。MCP 工具，让 Agent 不用源码就能分析应用、追踪代码并给出证据，支持 Android、JS/Electron、原生二进制，本地运行。可试。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/morluto/rea",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 68,
+   "title": "DSH Go：把 DeepSeek Harness 装进口袋的手机客户端",
+   "summary": "30,219 星，7 天 +6,868。DSH 第三方手机应用，Android 已发布，Vivo 可直接装 APK，本机跑 DSH 或遥控台式机。适合。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/ccch1mneyyy/dsh-Go",
+   "category": "github",
+   "imageUrl": "https://opengraph.githubassets.com/ea2c62a828d894d5ee2c48dffcfb5a9d9da9e64f3970a4ed04482709d4419471/ccch1mneyyy/dsh-Go",
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 69,
+   "title": "MiniMind：两小时从零训练一个 64M 小语言模型",
+   "summary": "约 68,700 星，7 天增长约 9,000。从预训练到强化学习全流程手把手复现小 LLM，适合学原理，可在 Colab 免费 GPU 上跑。可试。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/jingyaogong/minimind",
+   "category": "github",
+   "imageUrl": "https://opengraph.githubassets.com/0ac9ec43fcbf8151ed4871b739a86ed033be502c58d149a219a57607d38ace68/jingyaogong/minimind",
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 70,
+   "title": "last30days-skill：让 Agent 做带引用的主题调研",
+   "summary": "约 72,700 星，7 天增长约 6,400。并行检索 Reddit、X、YouTube、HN 并合成带引用的简报，可直接给 DSH 当调研技能。适合。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/mvanhorn/last30days-skill",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 71,
+   "title": "diagram-design：让编码 Agent 生成带品牌配色的图表",
+   "summary": "70,338 星，7 天增长约 4,700。按自然语言生成单文件 HTML/SVG 图表，45 种图型，支持 Claude Code、Codex、Cursor。可试。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/cathrynlavery/diagram-design",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 72,
+   "title": "攻击方 AI Agent 11 分钟挖出并利用医疗影像零日漏洞",
+   "summary": "亚马逊 11 月 20 日报告：攻击者操控的自主 Agent 约 11 分钟内发现并利用 MONAI Label 未知漏洞，从发现到拿到 root shell 全程自主。",
+   "sourceName": "DEV",
+   "sourceUrl": "https://dev.to/hiroki-ii-ai/ai-daily-digest-november-23-2026-agents-find-a-zero-day-on-their-own-metr-moves-the-horizon-mi4",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 74,
+   "title": "苹果被曝研发能直接操作 macOS 的操作系统级 Agent",
+   "summary": "泄露文档与招聘信息显示，苹果在准备可在 macOS 与 iOS 上以接近人类自主度操作的原生多模态 Agent。",
+   "sourceName": "Medium",
+   "sourceUrl": "https://medium.com/@sohail8338/the-machine-speed-threat-frontier-inside-the-11-minute-autonomous-zero-day-apples-mac-operating-794c562941d3",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 76,
+   "title": "快手开源 72B 代码模型 KAT-Dev，SWE-Bench Verified 拿下 74.6%",
+   "summary": "快手 Kwaipilot 开源的 KAT-Dev-72B-Exp 登顶开源代码模型榜，Hugging Face 已上线，StreamLake 提供每日免费试用。",
+   "sourceName": "Hugging Face",
+   "sourceUrl": "https://huggingface.co/Kwaipilot/KAT-Dev-72B-Exp",
+   "category": "ai",
+   "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Kwaipilot/KAT-Dev-72B-Exp.png",
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 77,
+   "title": "Inkling 2 Mini 的 GGUF 量化版放出，15.7GB 就能跑",
+   "summary": "Unsloth 放出 Inkling 2 Mini 的 GGUF 量化版，最小档约 15.73GB；原模型 11 月 20 日开源，总参数 26.2B，支持 1M 上下文。",
+   "sourceName": "麦式AI情报站",
+   "sourceUrl": "https://news.micker.com.cn/daily",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 78,
+   "title": "Cline v4.1.27 放宽 read_files 限制，并按模型拟合推理力度",
+   "summary": "Cline 11 月 21 日发布正式版，不再随意截断 read_files；模型目录新增 94 个提供方，推荐列表加入 Muse Ember。",
+   "sourceName": "TUJL",
+   "sourceUrl": "https://tujl.com/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 79,
+   "title": "Transformers v5.24.0 接入 Inkling 2 Mini 等一批新模型",
+   "summary": "Transformers v5.24.0 于 11 月 21 日发布，新增 Inkling 2 Mini、Apertus 1.5 等模型支持，缓存参数改名为 cache。",
+   "sourceName": "Dockware Discovery",
+   "sourceUrl": "https://dockwarelabs.dockfinity.com/discovery",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 80,
+   "title": "植物蛋白 vs 动物蛋白，3 项新研究说年轻人差别不大",
+   "summary": "三项新研究：新手练力量时大豆豌豆蛋白与乳清无显著差异；65 岁以上人群动物蛋白有微弱优势，年轻人看不到差别。",
+   "sourceName": "this-is-vegan",
+   "sourceUrl": "https://this-is-vegan.com/en/plant-vs-animal-protein-muscle-studies/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 81,
+   "title": "肌酸冲击 7 天，主观睡眠变好、酸痛减轻，但客观睡眠指标没变",
+   "summary": "14 名男性的随机双盲交叉试验：每天 20 克肌酸冲击 7 天，主观睡眠质量改善、酸痛减轻；客观睡眠指标无显著变化，样本很小。",
+   "sourceName": "PMC",
+   "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12736258/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 82,
+   "title": "冒险岛国际服：Quanah 宝石槽权重拉平，地牢仓库扩到 400 格",
+   "summary": "Nexon 11 月 19 日开发者说明：Quanah 拉齐各职业宝石槽权重，地牢仓库 240 格扩至 400 格，调整闯关与次元技能收益。",
+   "sourceName": "回城卷",
+   "sourceUrl": "https://huichengjuan.com/news/dbacf4a8-410b-4eae-a1ff-e5ce221a3cff",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 83,
+   "title": "冒险岛：11 月海外 OVERDRIVE 发布会前瞻",
+   "summary": "东南亚 OVERDRIVE 发布会已结束，新内容含派对乐园、海外职业六转三技首发、挑战者服务器门槛 285 级；台服 11 月 21 日办发布会。",
+   "sourceName": "巴哈姆特",
+   "sourceUrl": "https://forum.gamer.com.tw/C.php?bsn=7650&snA=1038684",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 84,
+   "title": "松下 LUMIX SHX1 11 月 24 日开启预售，尼康 ZR 固件 2.00 同日上线",
+   "summary": "松下首款紧凑型 LUMIX 电影机 SHX1 约 4699 美元，11 月 24 日开启预售；尼康 ZR 固件 2.00 同日推送，加入 H.265 下的 Log3G10。",
+   "sourceName": "TechTimes",
+   "sourceUrl": "https://www.techtimes.com/articles/331199/20261120/inter-bee-2026-closes-panasonic-lumix-shx1-pre-orders-nikon-zr-update-dated-november-24-japan-time.htm",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 85,
+   "title": "Thypoch 首款自动对焦镜头 23mm f/1.4 只要 349 美元",
+   "summary": "Thypoch 首支自动对焦定焦 AF 23mm f/1.4 Sculptor，富士 X 卡口，同类最轻也最便宜；同期 SmallRig 黑五最高 4 折。",
+   "sourceName": "PetaPixel",
+   "sourceUrl": "https://petapixel.com/topic/equipment/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 86,
+   "title": "美中俄三方峰会在深圳开完，发了和平宣言但没提具体核军缩措施",
+   "summary": "11 月 19 日三方首脑会谈发表和平宣言，提核战争风险降低与联合国改革，但无具体核军缩措施，也未提及俄乌行动。",
+   "sourceName": "产经新闻",
+   "sourceUrl": "https://www.sankei.com/article/20261123-AQJI5JTPDBJJHELCFNT36H4OKU/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 87,
+   "title": "COP31 谈判破局收场，化石燃料措辞被删、调适资金没了具体数字",
+   "summary": "联合国气候峰会 COP31 谈判拖到 11 月 22 日，最终文本删除化石燃料措辞，调适资金 1200 亿美元数字消失，多国反对下破局。",
+   "sourceName": "联合新闻网",
+   "sourceUrl": "https://udn.com/news/amp/story/6809/9895239",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 88,
+   "title": "美财长称无需进一步限制英伟达对华芯片出口",
+   "summary": "美财长贝森特表示无需对向中国出售旧款英伟达芯片施加进一步限制；同期一对探测器经 8 年飞行后进入水星轨道。",
+   "sourceName": "Macau Daily Times",
+   "sourceUrl": "https://macaudailytimes.com.mo/2026/11/23",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T02:05:28.585Z"
+  },
+  {
+   "id": 66,
+   "title": "Epic 免费领《Bread and Fred》（原价 SGD 11.68，11 月 27 日开领）",
+   "summary": "Epic 下周免费游戏：双人合作平台跳跃《Bread and Fred》，两只企鹅用绳子绑在一起爬雪山，领取后永久入库。11 月 27 日开领，12 月 4 日截止。2026-11-23 浏览器实地复核免费游戏列表确认窗口；旧链接已 404，已改用正确商品页。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://store.epicgames.com/p/bread-and-fred-1db362",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-23T01:45:50.932Z"
+  },
+  {
+   "id": 65,
+   "title": "Epic 限免：《Mark of the Deep》免费领（原价 SGD 18.50）",
+   "summary": "海盗题材类银河战士+魂系动作冒险游戏，Epic 本周限免，领取后永久入库；浏览器 2026-11-23 实测官方页显示免费、原价 SGD 18.50、-100%，优惠截止 2026 年 11 月 27 日 00:00（北京时间）。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://store.epicgames.com/zh-CN/p/mark-of-the-deep-f7dc08",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T17:47:35.888Z"
+  },
+  {
+   "id": 64,
+   "title": "Altare Always Free：永久免费云主机（4GB/40GB）+ 一次性 8GB 机器",
+   "summary": "新发现的免费云平台 Altare：Always Free 永久免费，无到期日、无需付款信息，新团队得 4GB 内存/1.25 核/40GB 磁盘/2 个服务器位，服务器不休眠；另有 Altare Go 一次性机器（8GB/4 核/40GB，最长 12 小时、同时 3 台）。2026-11-22 官网帮助页（2026-11-21 更新）直接核实。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://altare.gg/en/help/getting-started/free-package",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T05:45:05.383Z"
+  },
+  {
+   "id": 41,
+   "title": "dsh-our-free-model：给 DSH 装免费模型的插件",
+   "summary": "总星 83,141，7 天 +9,395。在 DSH 里装上即用 DeepSeek V4.1 Flash、Kimi K3 等前沿模型，免费不限量，无需登录和 API Key。适合主人。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 42,
+   "title": "obra/superpowers：让编程 Agent 先想清楚再写代码",
+   "summary": "总星 323,757。可组合的 Agent Skills 框架，先澄清需求、写设计，再按 TDD 和评审流程干活，支持 Claude Code、Codex、Antigravity 等。可试，没有 DSH 原生支持。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/obra/superpowers",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 43,
+   "title": "freellmapi：34 家免费模型聚合到一个接口",
+   "summary": "总星 55,816，7 天 +3,974。34 家免费 LLM 提供商、635 个免费模型端点聚合到一个 OpenAI 兼容接口，智能路由、自动故障转移。适合主人，个人实验用。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/tashfeenahmed/freellmapi",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 44,
+   "title": "misterdownloadmanager：Rust 从头写的干净下载器",
+   "summary": "总星 14,333，7 天 +5,369。纯 Rust 下载管理器，支持 Windows、Mac、Linux，HTTP、BT、FTP 和流媒体都行。可试，Windows 台式机直接用。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/anefzaoui/misterdownloadmanager",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 45,
+   "title": "stitch-skills：设计稿和代码来回转的 Agent Skills",
+   "summary": "总星 11,060，7 天 +2,289。让编程助手通过 Stitch MCP 把前端代码转设计稿或把设计稿转 React 组件，兼容 Antigravity、Gemini CLI 等。可试。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/google-labs-code/stitch-skills",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 46,
+   "title": "graphify：把代码库变成可查询的知识图谱",
+   "summary": "总星 151,229，7 天 +3,903。代码库连同文档、SQL、PDF 变成可查询的知识图谱，配 Claude Code、Cursor、Codex 的技能。可试。",
+   "sourceName": "GitHub",
+   "sourceUrl": "https://github.com/Graphify-Labs/graphify",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 47,
+   "title": "OpenAI 常驻助手 Dots 开始向 Plus 用户测试",
+   "summary": "OpenAI 把 24 小时在线的个人 AI 助手 Dots 从 Pro 扩到 Plus 用户小范围测试，每月 20 美元的 Plus 就能用。主人有 ChatGPT Plus，值得留意账号是否被选中。",
+   "sourceName": "AI Agents Directory",
+   "sourceUrl": "https://aiagentsdirectory.com/news/ai-agents-news-brief-openai-tests-dots-on-plus-google-enhances-gemini-and-industry-giants-forge-new-plat",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 49,
+   "title": "微软发布 MAI Code 2：约 GPT-6.1 Sol 98% 水平、40% 价格",
+   "summary": "微软 Ignite 发布自研 MAI Code 2 编程模型和 MAI Cyber 2 Flash 安全模型，已进 GitHub Copilot。注意这是微软自己的评测数据，未经独立验证。",
+   "sourceName": "PYMNTS",
+   "sourceUrl": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-introduces-new-models-to-cut-the-cost-of-ai-coding-and-cybersecurity/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 50,
+   "title": "IFM 发布开源模型舰队 K2-Horizon，最大 375B MoE",
+   "summary": "6 个开源模型从 0.9B 到 375B-A23B，共享 22 万亿 token 预训练语料，连训练数据和流程一起公开，技术报告 arXiv:2611.21003。台式机跑不了，了解趋势即可。",
+   "sourceName": "ExplainX",
+   "sourceUrl": "https://explainx.ai/blog/k2-horizon-open-model-fleet-ifm-november-2026",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 51,
+   "title": "Gemini 4 Hydrogen 上线，Antigravity 可自动换模型省额度",
+   "summary": "谷歌 11 月 12 日推 Gemini 4 Hydrogen，主打日常编码，100 万上下文；Antigravity 新 Orchestrator 可自动切换模型，称省 24% 额度、快 19%。主人有 AI Pro，值得试。",
+   "sourceName": "CASRAI",
+   "sourceUrl": "https://casrai.org/news/google-gemini-4-hydrogen-release-2026",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 52,
+   "title": "Cursor 公布篡改版扩展事后分析：源头是供应商泄露的密钥",
+   "summary": "Cursor 11 月 13 日报告：攻击者用 Fireworks 泄露的密钥拿到部分 SaaS 工具权限，又因一枚漏换的凭证把恶意构建植入扩展市场缓存。装插件认准官方渠道。",
+   "sourceName": "BuildJury",
+   "sourceUrl": "https://buildjury.com/news/#2026-11-12-claude-code",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 53,
+   "title": "AgentKit Beta 3：接 GitHub Copilot Runtime，Ollama 自动发现上下文窗口",
+   "summary": "AgentKit 0.1.0-beta.3：会话引擎并进核心，支持 GitHub Copilot Runtime，Ollama 本地部署新增上下文窗口自动发现。还在 Beta，适合关注 Agent 框架的人看看。",
+   "sourceName": "Undercode News",
+   "sourceUrl": "https://undercodenews.com/agentkit-just-got-a-major-update-beta-3-brings-github-copilot-runtime-integration-ollama-discovery-and-more-powerful-agent-tools-video/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 54,
+   "title": "OpenRouter 当日榜：DeepSeek Harness 排第 7",
+   "summary": "按 11 月 22 日 OpenRouter token 用量，Agent 榜前五是 Hermes Agent、Claude Code、Kilo Code、pi、Codex，DeepSeek Harness 第 7、OpenClaw 第 9。",
+   "sourceName": "AI of the Day",
+   "sourceUrl": "https://www.aiofthe.day/day/2026-11-22",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 55,
+   "title": "Simple Bench 新排名：谷歌新模型全过人类基线，GPT-6.2 Sol 跌到第 30",
+   "summary": "更新后的 Simple Bench 上谷歌新模型全部超过 83.7% 人类基线，OpenAI 下滑，Sol 6.2 跌到第 30、Astra 6.2 从第 9 掉到第 15。选模型看实测榜单更准。",
+   "sourceName": "The Context",
+   "sourceUrl": "https://thecontext.dev/en/topics/developer-tools/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 57,
+   "title": "吃替泽帕肽减重时举铁：少掉 1 公斤多瘦组织，力量不降反升",
+   "summary": "Nature Medicine 随机试验：120 人吃替泽帕肽 40 周，举铁组少掉 1.09 公斤瘦组织，只吃药组三项力量全下降、举铁组全上升。用 GLP-1 药物减重，力量训练是保肌肉的关键。",
+   "sourceName": "Elyte Fitness",
+   "sourceUrl": "https://elyte-fitness.com/2026/11/16/tirzepatide-lifting-body-recomposition-protein-hydration-research/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 59,
+   "title": "冒险岛国际服冬季更新 Maplayer One 上线，新职业 Lethe 登场",
+   "summary": "国际服 11 月 11 日上线 v.272 Maplayer One Part 1：新魔法师职业 Lethe、新世界 Quanah、挑战者世界第 4 季、新周常 Boss Mayrin，持续到 12 月 15 日。",
+   "sourceName": "Anime News Network",
+   "sourceUrl": "https://www.animenewsnetwork.com/press-release/2026-11-06/global-maplestory-major-update-maplayer-one-coming-nov-11/.243597",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 60,
+   "title": "Adobe MAX：Photoshop Relight、Lightroom Glow 上线",
+   "summary": "Adobe 11 月 10 日 MAX 更新：Photoshop Relight 正式进主程序，最多加三处光源；Lightroom 新增 Glow，做柔焦光晕有 5 种风格。同批还有富士新固件和已开售的适马 FP2。",
+   "sourceName": "EXIFrame",
+   "sourceUrl": "https://exiframe.app/blog/week-in-photography-2026-11-13-adobe-relight-leica-hammertone-sigma-fp2",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 61,
+   "title": "摄影器材 11 月 20 日新品速览：Thypoch 自动头、零像素相机",
+   "summary": "Thypoch 推 Sculptor 自动头系列首支 23mm f/1.4（富士）；Calumet 出了 0 像素徕卡风相机；OBSBOT 确认两款 PTZ 新品参数售价；富士确认 12 月 2 日办 X Summit。",
+   "sourceName": "What Digital Camera",
+   "sourceUrl": "https://www.whatdigitalcamera.com/archive/2026/11",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 62,
+   "title": "俄罗斯导弹落入波兰，北约称严重侵犯",
+   "summary": "南华早报 11 月 21 日：俄罗斯导弹落入波兰，北约称严重侵犯，华沙斥为蓄意挑衅；监控画面显示波兰东部赫米莱克附近发生爆炸的闪光。事态发展中，以官方通报为准。",
+   "sourceName": "SCMP",
+   "sourceUrl": "https://www.scmp.com/news/world?module=breadcrumb&pgtype=article",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-22T02:04:07.295Z"
+  },
+  {
+   "id": 40,
+   "title": "腾讯云 TokenHub：每个语言模型各送100万免费Tokens（DeepSeek-V4/GLM-5/Kimi-K2.6，1年有效）",
+   "summary": "腾讯云TokenHub新人免费体验包：每个语言模型各送100万Tokens，有效期1年，覆盖DeepSeek-V4、GLM-5、Kimi-K2.6、MiniMax-M3、混元Hy4等主流模型，OpenAI兼容接口；多模态理解模型同样每模型100万Tokens。活动截至2026年12月31日。2026-11-22腾讯云官方文档核实（文档2026-11-16更新）。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://cloud.tencent.com/document/product/1823/130053",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T19:46:09.244Z"
+  },
+  {
+   "id": 39,
+   "title": "Epic 免费领《Mark of the Deep》（原价 $19.99）",
+   "summary": "Epic 本周免费游戏：海盗题材类银河恶魔城+魂类动作冒险《Mark of the Deep》，原价 $19.99，本周免费领，11 月 27 日 00:00（GMT+8）截止。已在 Epic 官方商店页核实显示 Free，售价 -100%。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://store.epicgames.com/p/mark-of-the-deep-f7dc08?lang=en-US",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T15:47:58.752Z"
+  },
+  {
+   "id": 38,
+   "title": "Prized：新账号 $30 沙箱额度，免卡（暂停保内存，预装Claude Code/Codex）",
+   "summary": "新账号一次性$30沙箱额度，免卡，用于给AI agent跑隔离代码执行环境（每沙箱2 vCPU/4GB、累计60分钟、最多10个并发）；暂停可保留内存30天，prized-agent-v1模板预装Claude Code与Codex。2026-11-21官方文档核实。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://prized.dev/docs/free-sandbox-api",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T13:44:46.785Z"
+  },
+  {
+   "id": 37,
+   "title": "百度千帆：17个模型各送100万免费tokens（DeepSeek/Kimi/Qwen3）",
+   "summary": "百度千帆新用户福利：ERNIE-4.5-Turbo、DeepSeek-R1/V3.1、Kimi-K2、Qwen3 等17个模型各送100万免费tokens，合计1700万，有效期3个月，文档2026-11-11更新确认。2026-11-21官网文档复核确认。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://qianfan.cloud.baidu.com/",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T11:49:38.133Z"
+  },
+  {
+   "id": 36,
+   "title": "River AI：新账号 $25 推理额度（DeepSeek V4.1 Flash / GLM-5.3 Flash）",
+   "summary": "新注册送$25推理额度（上线活动），可调用DeepSeek V4.1 Flash与GLM-5.3 Flash，价格比官方低约20%（输入$0.12/百万tokens），OpenAI兼容接口；$25未在官网首页明示，注册后在Billing里显示，有效期未公布。",
+   "sourceName": "Deal Hunter",
+   "sourceUrl": "https://river.ai/api",
+   "category": "deal",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T09:43:10.993Z"
+  },
+  {
+   "id": 25,
+   "title": "ECC：30.7 万星的智能体工作台，72 个 Agent 与 328 个技能一次装好",
+   "summary": "按计划—测试—实现—复核—记忆的流程管编码智能体，支持 Claude Code、Codex、Copilot 等。Windows 有分步安装指引，MIT 开源免费。",
+   "sourceName": "GitHub · affaan-m/ECC",
+   "sourceUrl": "https://github.com/affaan-m/ECC",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 27,
+   "title": "agent-browser：给 AI 智能体的浏览器命令行，5.3 万星",
+   "summary": "Rust 写的 CLI，让智能体按无障碍树读页面、点元素、填表单，支持 MCP 与技能。Windows 有原生二进制，适合给 DSH 加联网操作能力。",
+   "sourceName": "GitHub · vercel-labs/agent-browser",
+   "sourceUrl": "https://github.com/vercel-labs/agent-browser",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 28,
+   "title": "Orca：13.1 万星的开源智能体 IDE，多智能体并行跑在独立 worktree",
+   "summary": "一个协调智能体拆任务，多个工作智能体并行写代码，各自有记忆文件。桌面支持 Windows，手机 App 可收审批提醒、远程盯进度。",
+   "sourceName": "GitHub · stablyai/orca",
+   "sourceUrl": "https://github.com/stablyai/orca",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 29,
+   "title": "Cloudflare 开源 security-audit 技能：六阶段给代码做安全审计",
+   "summary": "侦察、覆盖式 hunting、独立验证、结构化报告分阶段跑，结论只分已确认、待验证、已否决。7.6 万星，MIT 协议，可装进常用编码智能体。",
+   "sourceName": "GitHub · cloudflare/security-audit-skill",
+   "sourceUrl": "https://github.com/cloudflare/security-audit-skill",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 30,
+   "title": "阿里开源 Open Code Review：确定性流程加 LLM，审 PR 更准更省 token",
+   "summary": "源自阿里内部评审工具，行级精确定位，内置空指针、线程安全、XSS 等规则。5.4 万星，支持 Claude Code、Codex，委派模式不用另配 key。",
+   "sourceName": "GitHub · alibaba/open-code-review",
+   "sourceUrl": "https://github.com/alibaba/open-code-review",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 31,
+   "title": "OpenClaw：39.5 万星的开源个人智能体，跑在自己电脑上",
+   "summary": "网关式个人助手，接 WhatsApp、Telegram、Discord 等 20 多个渠道，状态与密钥留在本机。Windows、安卓均有客户端，无付费层。",
+   "sourceName": "GitHub · openclaw/openclaw",
+   "sourceUrl": "https://github.com/openclaw/openclaw",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 32,
+   "title": "OpenMausBot：开源版 Grok Bot，聊天界面里养一队 AI 机器人",
+   "summary": "每个机器人是真实的 Claude 或 Codex 智能体，有各自模型、记忆与电脑，操作前会先请示。2.6 万星，本地优先，Windows 有安装包。",
+   "sourceName": "GitHub · milind-soni/OpenMausBot",
+   "sourceUrl": "https://github.com/milind-soni/OpenMausBot",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 33,
+   "title": "Hermes Agent：会自我学习的开源智能体，26.5 万星，支持 Windows 原生",
+   "summary": "做完复杂任务会自己建技能、沉淀记忆，还能从 Telegram 等渠道对话。支持任意模型与 $5 VPS 部署，也有安卓 Termux 包。",
+   "sourceName": "GitHub · NousResearch/hermes-agent",
+   "sourceUrl": "https://github.com/NousResearch/hermes-agent",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T05:03:17.583Z"
+  },
+  {
+   "id": 8,
+   "title": "T3 Code：一个界面同时管 Claude Code、Codex 等多个 coding agent，手机也能批复",
+   "summary": "开源控制平面，在 Windows 台式机上跑 coding agent，统一管理多 agent 会话、换模型、Git worktree，还能用 Android 手机远程查看和批复下一步。免费 MIT 协议，用自己已登录的 agent 账号即可，正好匹配 Windows 台式机 + 安卓手机 + Tailscale 的组合。",
+   "sourceName": "GitHub · pingdotgg/t3code",
+   "sourceUrl": "https://github.com/pingdotgg/t3code",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T03:45:52.889Z"
+  },
+  {
+   "id": 10,
+   "title": "Claude-BugHunter：83 个漏洞挖掘技能，让 agent 按真实披露报告的方法找漏洞",
+   "summary": "基于 681 份公开披露报告整理的 Claude Code 技能包，含 83 个技能、15 条斜杠命令，覆盖 Web 漏洞、OAuth、GraphQL 等 24 类问题，支持 Claude Code、Codex、OpenCode、Antigravity，Windows 也有 PowerShell 安装脚本。仅限自己拥有或已授权测试的目标使用。",
+   "sourceName": "GitHub · elementalsouls/Claude-BugHunter",
+   "sourceUrl": "https://github.com/elementalsouls/Claude-BugHunter",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T03:45:52.889Z"
+  },
+  {
+   "id": 14,
+   "title": "CLI-Anything：给任意软件生成 CLI，让 AI agent 直接操作它",
+   "summary": "港大团队开源项目，自动为 Blender、FreeCAD、Obsidian、LibreOffice、n8n 等软件生成命令行接口和 SKILL.md，再通过 CLI-Hub 一键安装，让 Claude Code、Codex、DSH 等 agent 直接调用这些软件干活。有中文文档，适合把 agent 的能力从写代码扩展到日常桌面软件自动化。",
+   "sourceName": "GitHub · HKUDS/CLI-Anything",
+   "sourceUrl": "https://github.com/HKUDS/CLI-Anything",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T03:45:52.889Z"
+  },
+  {
+   "id": 15,
+   "title": "claude-mem：给 coding agent 加跨会话记忆，下次开局不再从零开始",
+   "summary": "开源记忆引擎，在 agent 工作时自动记录、压缩会话内容，下个会话先注入相关摘要再开工，支持 Claude Code、Codex、OpenCode 等 15+ 种 agent，并明确支持 DSH，记忆存本地。注意：默认云端 observer 有 30 天免费试用、需绑支付方式；也可改用自己的 Gemini/OpenRouter key，适合现有的记忆层思路作参考或补充。",
+   "sourceName": "GitHub · thedotmack/claude-mem",
+   "sourceUrl": "https://github.com/thedotmack/claude-mem",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-21T03:45:52.889Z"
+  },
+  {
+   "id": 4,
+   "title": "Signal 默认拦截截图，防手机内置 AI 助手偷读聊天",
+   "summary": "Signal 11 月 20 日宣布默认开启防护：iOS 上拦截应用内截图，Android 上检测到 AI 助手读屏时自动开启 Screen Security，目标是挡住系统级 agent 用 OCR 读走加密聊天。主人用 Vivo 安卓手机，这条直接相关；但 Signal 也承认防护不完整，macOS 上没有可靠办法。",
+   "sourceName": "Engadget",
+   "sourceUrl": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-20T20:18:09.000Z"
+  },
+  {
+   "id": 18,
+   "title": "Windows 11 可选更新 KB5132057：新搜索、新 Run 对话框，28 项改动",
+   "summary": "微软 11 月 20 日推送 Windows 11 25H2/26H2 十一月可选预览更新 KB5132057，带来基于 WinUI 3 的新搜索体验（去掉推广内容）、94 毫秒弹出的新 Run 对话框和暗光下更好用的 Windows Hello，以及文件资源管理器搜索提速。这是主人 Windows 台式机可直接装的更新，且是今年最后一个非安全预览更新。",
+   "sourceName": "BleepingComputer",
+   "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-20T09:25:35.000Z"
+  },
+  {
+   "id": 19,
+   "title": "华为新子品牌 OSTA 首款手机 O1 Pro 发布：宽屏 16:9.5、2 亿像素、7000mAh，5499 元起",
+   "summary": "华为 11 月 20 日在国内发布卖掉荣耀六年后的首个新手机子品牌 OSTA，首款 O1 Pro 用 6.39 英寸 16:9.5 宽屏、麒麟 9030S、2 亿像素主摄和 7000mAh 电池，首发鸿蒙 7 AI 先锋版，12GB+256GB 首发价 5499 元。国内发售、无海外计划、无谷歌服务，适合关注国产 AI 手机动向的主人参考。",
+   "sourceName": "Gizmochina",
+   "sourceUrl": "https://www.gizmochina.com/2026/11/20/huawei-osta-o1-pro-launches-specs-price/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-20T09:08:39.000Z"
+  },
+  {
+   "id": 3,
+   "title": "TestSprite 4.0 发布：独立 AI 测试 agent，替编码 agent 验货",
+   "summary": "11 月 20 日发布的独立测试 agent，不再让写代码的 agent 自己给自己打分，而是在真实浏览器里前后端全测并给出证据，支持 MCP 与开源 CLI，可接 Claude Code / Codex / Cursor。有免费档，适合在 Windows 桌面 AI 编码流程里验 DSH / Codex 写出来的东西。",
+   "sourceName": "TestSprite 官方新闻稿",
+   "sourceUrl": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/testsprite-4.0-launches-an-independent-testing-agent-to-verify-wh-1254595",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "id": 5,
+   "title": "Onlook 发布开源桌面版画布编辑器：可视化改 React 应用，agent 直接改真实仓库文件",
+   "summary": "11 月 20 日消息，Onlook 推出免费、本地优先的开源桌面应用，把真实 Git 仓库跑在无限画布上，接自己的 Claude Code 或 Codex 账号，让 agent 直接改仓库里的真实文件，还能一键提 PR。适合做网页/设计类小工具时可视化改界面，但目前只有 macOS 安装包，Windows 还在等候名单。",
+   "sourceName": "Agents Daily",
+   "sourceUrl": "https://agentsdaily.dev/archive/onlook-releases-open-source-desktop-canvas-editor-for-designers-using-claude",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "id": 34,
+   "title": "Signal 默认拦系统 AI 读聊天：iOS 27 与安卓开启截屏防护",
+   "summary": "为防 Gemini、Siri 等系统级助手从屏幕读取聊天，Signal 默认阻止应用内截屏。安卓在检测到助手读屏时自动开启屏幕安全，可在设置关闭。",
+   "sourceName": "Signal 官方博客",
+   "sourceUrl": "https://signal.org/blog/protecting-your-privacy/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "id": 2,
+   "title": "Genie 4 上线 Gemini API：文字/图片生成可玩的 720p 互动世界",
+   "summary": "Google 11 月 19 日把世界模型 Genie 4 接进 Gemini API 和 AI Studio，一句话或一张图就能生成 720p、24fps、带同步音频的可探索世界，可边玩边改场景。适合做交互原型和 agent 训练场景试玩，但按秒付费（约 $0.10/秒），不是免费档。",
+   "sourceName": "Google 官方博客",
+   "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-19T17:00:00.000Z"
+  },
+  {
+   "id": 6,
+   "title": "Gemini CLI v0.70.0 发布（11 月 19 日）：以稳定性修复为主",
+   "summary": "Google 开源终端 agent Gemini CLI 11 月 19 日发布 v0.70.0，主要是修复：保留 Unicode 提示词、认证重启后保留所选 worktree、跳过不安全的系统 MCP 服务器、收紧 shell 策略检查等。没有新功能，但在 Windows 终端里用 Gemini CLI 免费档会更稳；注意 Magpie 里 Gemini CLI 目前是关闭状态。",
+   "sourceName": "Gradually · Gemini CLI 更新日志",
+   "sourceUrl": "https://www.gradually.ai/en/changelogs/gemini-cli/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "id": 16,
+   "title": "Gemini Computer Use 登陆 Mac：可在后台替你操作应用和网页",
+   "summary": "Google 11 月 19 日宣布 Gemini Mac 应用新增 Computer Use，可在隔离后台窗口里帮你点按、填表、批量处理文件和网页，你的屏幕和光标不受影响。这是桌面 AI 智能体走向“真动手”的又一步，值得关注其后续是否扩展到 Windows；但注意目前仅限美国英文、Apple Silicon Mac，且需 Google AI Plus/Pro/Ultra 订阅，主人是 Windows 台式机，暂时用不上。",
+   "sourceName": "Google 官方博客",
+   "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+   "category": "x",
+   "imageUrl": null,
+   "publishedAt": "2026-11-18T16:00:00.000Z"
+  },
+  {
+   "id": 1,
+   "title": "Google 发布 Gemini 4 Neon：编码智能体榜第一，1M 上下文",
+   "summary": "Google 11 月 18 日发布 Gemini 4 Neon，定位在 Carbon 与 Hydrogen 之间，编码智能体指数排名第一、1M 上下文、四档思考级别。主人已有家庭组共享的 Google AI Pro 和 Antigravity，可直接使用，适合做主力编码与长流程 agent 模型。",
+   "sourceName": "Google 官方博客",
+   "sourceUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-18T08:00:00.000Z"
+  },
+  {
+   "id": 23,
+   "title": "Google 发布 Gemini 4 Neon：1M 上下文，定位编码与高频长程智能体",
+   "summary": "Neon 由 Carbon 衍生，兼顾深度与效率，CursorBench 与 Agents' Last Exam 表现靠前。已在 Gemini API 与 Antigravity 上线，适合做主力编码模型。",
+   "sourceName": "Google DeepMind",
+   "sourceUrl": "https://deepmind.google/models/model-cards/gemini-4-neon/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-18T00:00:00.000Z"
+  },
+  {
+   "id": 26,
+   "title": "国产安卓去广告 v0.4.5：vivo 也能用，不 root、可还原",
+   "summary": "11 月 18 日更新，修华为通知误关等问题。关系统广告、热搜与营销推送，有 Windows 桌面客户端与手机版，vivo X 系列已实测。",
+   "sourceName": "GitHub · rddmwmddr/android-ad-cleaner",
+   "sourceUrl": "https://github.com/rddmwmddr/android-ad-cleaner",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-18T00:00:00.000Z"
+  },
+  {
+   "id": 7,
+   "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol：旗舰降价 20%，Sol 主打日常高性价比",
+   "summary": "OpenAI 11 月 17 日发布 GPT-6.2，Astra 是旗舰（API $8/$40 每百万 token，比上一代便宜 20%），Sol 是日常高效款（$2/$10 不变），在 FrontierCode 2.0 上接近 Astra 效果、成本约五分之一。只进 ChatGPT Work 和 Codex 及 API，不进普通 Chat，主人 ChatGPT Plus 到 12 月 14 日，可在 Work 模式里试用。",
+   "sourceName": "OpenAI 社区官方公告",
+   "sourceUrl": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531/1",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-17T18:00:00.000Z"
+  },
+  {
+   "id": 20,
+   "title": "力量训练前到底要不要吃碳水？AUT 新研究",
+   "summary": "奥克兰理工大学 11 月 18 日发布博士研究：练前/练中吃碳水对高容量上肢力量训练的总训练量没有影响，但初步下肢实验显示，大肌群训练会消耗 50–77% 的肌糖原，碳水有帮助。结论是平时空腹 8 小时以上、训练超 45 分钟或练腿时，练前吃 20–30 克碳水（如一根香蕉）才有意义，不用每练必吃。",
+   "sourceName": "AUT News（奥克兰理工大学）",
+   "sourceUrl": "https://www.aut.ac.nz/news/stories/do-we-really-need-carbs-to-fuel-our-gym-sessions",
+   "category": "other",
+   "imageUrl": "https://www.aut.ac.nz/__data/assets/image/0007/1189771/Andrew-King-weightlifting.jpg",
+   "publishedAt": "2026-11-17T16:00:00.000Z"
+  },
+  {
+   "id": 21,
+   "title": "小米 18 Pro 系列全球发布：双 200MP 徕卡相机、背面副屏，1399 欧元起",
+   "summary": "小米 11 月 18 日在巴黎全球发布 18 Pro 与 18 Pro Max，首次把 Pro 系列带出中国：背面 2.7/2.9 英寸副屏可当后摄自拍取景器，双 200MP 徕卡相机，骁龙 8 Elite Gen 6 系列芯片，6000/7050mAh 电池。主人和女友都关注摄影，安卓旗舰的这个副屏自拍设计值得一看；起售价 1399/1599 欧元，不在美国和加拿大销售。",
+   "sourceName": "Imaging Resource",
+   "sourceUrl": "https://www.imaging-resource.com/news/xiaomi-18-pro-series-launches-globally-with-dual-displays-and-leica-cameras/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-17T16:00:00.000Z"
+  },
+  {
+   "id": 22,
+   "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol：旗舰降价 20%，日常任务更省 token",
+   "summary": "Astra 主打复杂专业工作与科学计算，Sol 面向日常编码与多步智能体流程。已进 ChatGPT Work、Codex 与 API，Astra 输入 $8/百万 token。",
+   "sourceName": "OpenAI 官方博客",
+   "sourceUrl": "https://openai.com/index/introducing-gpt-6-2-astra-sol/?ref=testingcatalog.com",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-17T00:00:00.000Z"
+  },
+  {
+   "id": 24,
+   "title": "微软 MAI Code 2 与 Code 2 Flash 进 GitHub Copilot，Flash 版免费档可用",
+   "summary": "MAI Code 2 主打多文件调试与仓库级推理，Flash 版轻量快速。Copilot 桌面、CLI 与手机端均可切换，Flash 不用付费订阅也能试。",
+   "sourceName": "GitHub Changelog",
+   "sourceUrl": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot/",
+   "category": "ai",
+   "imageUrl": null,
+   "publishedAt": "2026-11-17T00:00:00.000Z"
+  },
+  {
+   "id": 12,
+   "title": "BatteryHub：Windows 任务栏直接看鼠标、耳机、手柄电量，免费小工具",
+   "summary": "免费开源的 Windows 10/11 托盘小工具，仅约 350KB、占 2MB 内存，无需装厂商软件，直接在任务栏显示无线鼠标、键盘、耳机、手柄的电量，支持罗技、雷蛇、SteelSeries 等品牌和低电量提醒，电量历史只存本地。",
+   "sourceName": "GitHub · krisgfx9/Wireless-Device-Battery-Monitor",
+   "sourceUrl": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-16T19:28:29.000Z"
+  },
+  {
+   "id": 17,
+   "title": "Gemini Tasks 在美日韩等六国免费开放，跑在 Gemini 4 Hydrogen 上",
+   "summary": "Google 11 月 17 日宣布，原先只给付费订阅的 Gemini 多步骤任务助手 Tasks 改为在美国、日本、韩国、加拿大、澳大利亚、印度免费开放，基于新模型 Gemini 4 Hydrogen，可后台完成查资料、订行程等多步任务。免费六国不含中国，但主人已有家庭组共享的 Google AI Pro，本就可用。",
+   "sourceName": "Google 官方博客",
+   "sourceUrl": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "category": "x",
+   "imageUrl": null,
+   "publishedAt": "2026-11-16T16:00:00.000Z"
+  },
+  {
+   "id": 11,
+   "title": "rust-anything：把应用逐段重写为 Rust，每一步都用录制行为验算",
+   "summary": "先录制原应用（TypeScript/Python/Go 等）的真实行为，再让 coding agent 一段段写 Rust 实现，每段都回放录制用例比对，全部通过才算完成。提供 Windows 预编译二进制和 Claude Code/Codex 插件，实测 Prettier 移植后快 19 倍，适合用 agent 做小型工具提速。",
+   "sourceName": "GitHub · erkamyaman/rust-anything",
+   "sourceUrl": "https://github.com/erkamyaman/rust-anything",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-16T12:10:36.000Z"
+  },
+  {
+   "id": 35,
+   "title": "组间休息 2 分钟就够了：8 周试验与随意休息效果相当，还省 22 分钟",
+   "summary": "40 名有训练经验者随机试验，固定约 2 分钟休息与自选休息在增肌、力量上无实质差别。11 月新研究合集还涉及素食增肌与超高蛋白肾脏指标。",
+   "sourceName": "FitArchive",
+   "sourceUrl": "https://www.fitarchive.app/blog/rest-between-sets-protein-research-november-2026/",
+   "category": "other",
+   "imageUrl": null,
+   "publishedAt": "2026-11-11T00:00:00.000Z"
+  },
+  {
+   "id": 9,
+   "title": "PhoneBox：旧安卓手机变身桌面面板，监控电脑、管 AI 编程会话",
+   "summary": "免费开源，Windows 桌面端 + 安卓 App（无需 root、无云端账号），126 个小部件、30 个模板，可显示 CPU/GPU、Claude/Codex 用量与会话、GitHub 状态，还能在手机上点“允许/拒绝”批复 agent 的权限请求。支持 USB 或 Wi-Fi/Tailscale 连接，适合把闲置安卓机利用起来。",
+   "sourceName": "GitHub · ersinkoc/phonebox",
+   "sourceUrl": "https://github.com/ersinkoc/phonebox",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-11-07T16:45:16.000Z"
+  },
+  {
+   "id": 13,
+   "title": "Craft Anything：让 agent 先研究任意软件，再帮你从零复刻一个",
+   "summary": "纯 Rust 开源逆向 + 构建引擎，研究网站、桌面应用、游戏或文件后，让已登录的 coding agent 按要求重建一个新项目，并逐项比对原版修正。有 Windows 安装包和 320 个 MCP/CLI 工具，agent 可直接调用；目前是早期 alpha 版，适合快速做小工具原型。",
+   "sourceName": "GitHub · storytold/craft-anything",
+   "sourceUrl": "https://github.com/storytold/craft-anything",
+   "category": "github",
+   "imageUrl": null,
+   "publishedAt": "2026-10-31T14:50:00.000Z"
+  }
+ ]
+}
