@@ -1,7 +1,447 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T02:10:12.687829Z",
+  "generatedAt": "2026-11-27T02:13:35.739780Z",
   "items": [
+    {
+      "id": 218,
+      "title": "塔巴塔+力量训练：练后 30 分钟脂肪供能占比达 68%，但只是一次实验",
+      "summary": "肥胖男大学生 43 人、2026 年试验：塔巴塔后接力量训练，练后 30 分钟脂肪供能占 68.4%，高于其他顺序；但只测了一次运动、没验证长期减脂，绝对量也只有约 5.8 克脂肪。",
+      "sourceName": "FITPEAK",
+      "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/tabata-resistance-training-post-exercise-fat-oxidation-obese-men-2026",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 217,
+      "title": "辣椒素：练前吃可能让肌耐力和爆发力小幅提升，但证据很弱",
+      "summary": "2026 年新荟萃分析（21 项试验、348 人）：单次摄入辣椒素类，整体效应 g=0.20，肌耐力和爆发力有小幅提升，最大力量和有氧能力没差别；证据确定性评为“非常低”，别当补剂神话。",
+      "sourceName": "FITPEAK",
+      "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/capsaicin-acute-intake-athletic-performance-meta-analysis-2026",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 216,
+      "title": "大蒜市场：行情稳中略显不快，货源偏多、好货坚持次货主动",
+      "summary": "金乡库蒜上午平稳、午后买家积极性放缓，主流价无明显波动，一般混级 1.82 左右、蒜米料 1.15-1.28；储存商心态好转、议价空间收窄，短期弱平衡、分化僵持。",
+      "sourceName": "华蒜网",
+      "sourceUrl": "https://www.hsw021.com/archiver/?tid-31384.html",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 215,
+      "title": "今日现货指导价 2026 年 11 月 27 日：金乡一般混级 1.83 元/斤",
+      "summary": "综合蒜通天下、中蒜通、卓创资讯、蒜库网、我的钢铁五家报价，金乡一般混级指导价 1.83 元/斤（区间 1.75-1.90）。",
+      "sourceName": "耘上数字",
+      "sourceUrl": "https://www.hnysss.com/price_info/1163",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 214,
+      "title": "鸿蒙智行发布全新一代华为巨鲸电池平台：提前五年满足动力电池新国标",
+      "summary": "11 月 26 日 TECH DAY：平台参编运行周期安全团标、填补老化电池考核空白，智界 RX 首个通过；15 层防护+拱桥卸力、可承受整车满载 110% 挤压，1 米水深泡 72 小时，另有 24 小时 AI 电池管家。",
+      "sourceName": "凤凰网汽车",
+      "sourceUrl": "https://auto.ifeng.com/c/8yN92VhgOwB",
+      "category": "other",
+      "imageUrl": "https://x0.ifengimg.com/res/2026/B8B49D6CFC0677339D6C899EE245F7703451BCCB_size28_w720_h380.webp",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 213,
+      "title": "U17 国足 8-0 大胜斐济，时隔 21 年晋级世少赛淘汰赛",
+      "summary": "11 月 27 日凌晨 H 组末轮：赵松源开场 3 分钟破门，邝兆镭、万项各入两球；中国队 1 胜 1 平 1 负积 4 分，以 8 个成绩最好的小组第三之一晋级 32 强，队史第三次进世少赛淘汰赛。",
+      "sourceName": "新华网",
+      "sourceUrl": "https://www.news.cn/sports/20261127/c3993b028c9d491bbb398dfb19a11878/c.html",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 212,
+      "title": "感恩节风暴袭击美国东海岸：超 400 航班取消、约 90 万户断电，梅西大游行百年首次延期",
+      "summary": "11 月 26 日东北风暴，阵风最高 112 公里/小时，弗吉尼亚、马里兰、宾州断电最重；FlightAware 统计取消 400 多班、延误约 1800 班；梅西感恩节大游行推迟至 11 月 28 日。",
+      "sourceName": "路透社",
+      "sourceUrl": "https://www.reuters.com/business/environment/thanksgiving-storm-knocks-out-power-disrupts-flights-us-east-coast-2026-11-26/",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 211,
+      "title": "特朗普与北约秘书长吕特会晤：聚焦乌克兰与伊朗，要求俄避免任何升级举动",
+      "summary": "联合声明称会晤“非常特殊、高度重要”，谈及俄乌战争、伊朗冲突及北约防务开支；特朗普上周在深圳与普京、习近平三方会晤后正推动停火谈判；乌方称下一轮谈判或在圣诞节前。",
+      "sourceName": "Stockbiz（引路透）",
+      "sourceUrl": "https://stockbiz.vn/en/news/us-and-nato-discuss-conflicts-in-ukraine-and-iran/42936780",
+      "category": "other",
+      "imageUrl": "https://static.fireant.vn/Upload/20261127/images/1557348fbc1c4d48b07d64250719d5e520261127053013.jpg?width=1200",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 210,
+      "title": "佳能 EOS R8 Mark II：约 546 克全画幅，补上机身防抖、最高约 40 张/秒连拍",
+      "summary": "新机补齐初代缺机身防抖的短板（中心最高 7.5 级），加预连拍（快门前 0.5 秒）、暗光对焦最低 EV-7.5，新增正片/负片等 16 种色彩滤镜直出。",
+      "sourceName": "网易号·上观新闻",
+      "sourceUrl": "https://www.163.com/dy/article/LCJAH7S5055040N3.html",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 209,
+      "title": "大疆 Action 系列双 11 拿下传统运动相机 83.3% 销量份额，Action 6 街拍大师套装上新",
+      "summary": "洛图科技数据：Action 6 天猫热卖榜第一；新套装加铝合金电控手柄（带快门键、可补电）与两款街拍直出滤镜，活动价 3199 元、11 月 30 日截止。",
+      "sourceName": "大广网",
+      "sourceUrl": "https://news.t0001.com/newsflash/202611/1466729.html",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 208,
+      "title": "OBSBOT 寻影十周年三款新品齐发：Tail 2 先锋版、Tail Air 2、Meet 3",
+      "summary": "11 月 26 日发布：Tail 2 先锋版 21 倍光变、最远 240 米跟踪，10999 元；Tail Air 2 首搭 1 英寸 CMOS，6999 元；桌面摄像头 Meet 3 为 5000 万像素 1/1.28 英寸大底，1599 元；三款都主打 AI 自动运镜与多机协同。",
+      "sourceName": "环球科技潮",
+      "sourceUrl": "https://www.zennew.com/shuma/202611/4738.html",
+      "category": "other",
+      "imageUrl": "https://www.zennew.com/uploadfile/catimg/general/35.jpg",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 207,
+      "title": "冒险岛经典世界 v2.1.0：11 月 24 日维护更新，调低部分怪物物防与刷新问题",
+      "summary": "11 月 24 日 3 小时维护后更新至 v2.1.0：Lorang、Clang 物防 20→10，修复部分地图刷怪率偏低，感恩节火鸡改为城镇每小时随机刷新。",
+      "sourceName": "Steam（MapleStory 官方公告）",
+      "sourceUrl": "https://store.steampowered.com/news/app/216150/view/697655969541260485?l=dutch",
+      "category": "other",
+      "imageUrl": "https://clan.fastly.steamstatic.com/images/3952675/d9489e8c52bdfcc5cfda543c5915ef21600dd91e.jpg",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 206,
+      "title": "冒险岛 v272.3.0：蔚蓝档案联动 11 月 19 日上线，至 12 月 16 日",
+      "summary": "11 月 19 日小补丁：联动含签到奖励、可招募学生，另有每周 4 万只狩猎活动、单人 Boss 挑战与跨服组队 Boss 匹配改进。",
+      "sourceName": "MMODude",
+      "sourceUrl": "https://www.mmodude.com/patches/maplestory/",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 205,
+      "title": "小试验：睡眠呼吸暂停患者每周练 3 次、练 8 周，睡眠质量评分改善 3.2 分",
+      "summary": "2026 年 10 月论文（《Sleep and Breathing》）：25 名中重度患者随机对照，力量组 PSQI 从 7.9 降到 4.8 分（低于 5 分为良好线），对照组基本不动；样本小、靠主观问卷。",
+      "sourceName": "FITPEAK",
+      "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/sleep-apnea-resistance-training-sleep-quality-rct-2026",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 204,
+      "title": "睡眠不足后运动表现平均降 7.56%，肌肉合成速度也下降",
+      "summary": "69 篇论文、959 人的荟萃分析：睡 6 小时以下后运动成绩平均降 7.56%，各类运动都降；一夜通宵使肌蛋白合成速率降 18%；但平时少睡 1-2 小时的 16 次训练未见差异。",
+      "sourceName": "Evidence Search",
+      "sourceUrl": "https://evidence-search.jp/evidence/sleep-muscle-gain",
+      "category": "other",
+      "imageUrl": "https://evidence-search.jp/thumbs/sleep-muscle-gain-wide.jpg",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 203,
+      "title": "植物蛋白替代部分肉类 4 周，耐力与肌力未见显著下降",
+      "summary": "罗格斯等大学团队、36 名大学生随机交叉试验（《Nutrition Journal》2026）：植物蛋白期每日蛋白少 31%（71 克 vs 103 克），但跑步距离与综合肌力差异均未达统计显著；只限 4 周与休闲运动者。",
+      "sourceName": "MamiBuy（引 Rutgers/论文）",
+      "sourceUrl": "https://mamibuy.com.tw/talk/article/262042/%e9%81%8b%e5%8b%95%e4%b8%80%e5%ae%9a%e8%a6%81%e5%90%83%e8%82%89%e8%a3%9c%e8%9b%8b%e7%99%bd%e8%b3%aa%e7%a0%94%e7%a9%b6%e6%a4%8d%e7%89%a9%e8%9b%8b%e7%99%bd%e5%8f%96%e4%bb%a3%e9%83%a8",
+      "category": "other",
+      "imageUrl": "https://tw.maminews.com/img/articles/2026/11/500x320_2026112616244487306.jpg",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 202,
+      "title": "新研究：练腿前吃 8 克瓜氨酸苹果酸，哈克深蹲总次数更多、酸痛更轻",
+      "summary": "11 月 26 日报道：15 名有训练经验男性双盲交叉试验，8 组 67% 1RM 练至力竭，补剂组总次数与总做功更高、之后酸痛更少；样本小、只测了两次训练，未测长期增肌。",
+      "sourceName": "Men's Fitness",
+      "sourceUrl": "https://www.mensfitness.com/news/new-study-on-citrulline-and-leg-day-shows-more-reps-less-soreness",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 201,
+      "title": "英伟达暂停向东南亚四国交付 AI 服务器：美出口管制收紧所致",
+      "summary": "11 月 26 日《金融时报》消息：英伟达通知戴尔、超微等暂停向马来西亚、新加坡、泰国、印尼发货，因美商务部 11 月 19 日生效的新规要求先进芯片出口上述国家须持许可证，意在堵住中企经海外数据中心绕道拿算力。",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "category": "ai",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 200,
+      "title": "HN 高分长文：AI 让自托管又好玩了",
+      "summary": "作者称用 AI 编程智能体改 Docker Compose、搭 NixOS、做 Renovate + GitHub Actions 自动更新，折腾门槛大降；也提醒 AI 生成的配置仍需自己看懂、别为建而建。",
+      "sourceName": "Jan-Lukas Else 个人博客",
+      "sourceUrl": "https://janlukas.blog/posts/ai-self-hosting",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 199,
+      "title": "Product Hunt 今日：Flurra——让 Claude/ChatGPT 直接剪你的视频",
+      "summary": "连上 Claude 或 ChatGPT 后说一句话就能剪辑真实工程：剪停顿、加字幕、换背景，预览确认后才渲染 1080p；另有免费档。",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/flurra",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 198,
+      "title": "Product Hunt 今日：DeskFleet——让 coding agent 会话跨团队成员的电脑共享",
+      "summary": "队友可加入同一 Claude Code/Codex/Cursor 会话看 diff、批下一步操作，还能远程看 Windows 桌面验安装包。",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/deskfleet",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 197,
+      "title": "Product Hunt 今日：Remora——AI 智能体的长期记忆层",
+      "summary": "基于 PostgreSQL + pgvector，15ms 内混合召回，自动解决新旧事实冲突，TypeScript/Python SDK，可接 LangChain、LlamaIndex 等。",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/remora-6",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 196,
+      "title": "Product Hunt 今日第 1：Hub——把 100 个 Claude Code/Codex 会话当 5 个管",
+      "summary": "开源协调器（Apache-2.0、自托管），用自然语言或 Telegram 下目标，协调器只把需要决策的事推回来；作者称自 9 月 20 日以来已合并 546 个 MR。",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/hub-20",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 195,
+      "title": "意大利与瑞士确认 AI 智能体已被用于真实网络攻击",
+      "summary": "11 月 25-26 日两国安全机构警告：意大利 CSIRT 发现自主智能体大规模扫描互联网暴露系统找漏洞；瑞士报告 5 起相关攻击，涉及 ARTEX AI、CyberStrikeAI、DeepSeek Harness 红队版与 PentAGI。",
+      "sourceName": "AIdapted（引 BleepingComputer）",
+      "sourceUrl": "https://aidapted.ro/en/articles/ai-news-27-november-2026-eu-budget-ai-agent-attacks/",
+      "category": "ai",
+      "imageUrl": "https://media.aidapted.ro/articles/27.11.2026_eng_corel.jpg",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 194,
+      "title": "谷歌发现首个全自动 AI 攻击框架 exploit_agent：补丁一出就自动生成并执行漏洞利用",
+      "summary": "谷歌威胁情报组 11 月 16 日报告：该框架盯着热门软件补丁做代码比对、写 exploit 并自动执行，全程无人干预，服务器上还有受害者数据与后渗透脚本。",
+      "sourceName": "TechNode",
+      "sourceUrl": "https://technode.global/2026/11/17/google-agentic-ai-autonomous-exploitation-threats/",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 193,
+      "title": "1Password 披露安全事件：员工 GitHub 账号被盗，部分客户资料外泄，密码库未受影响",
+      "summary": "11 月 19 日发现入侵、25 日披露，攻击者经员工企业 GitHub 账号向后端推恶意代码，窃取部分客户姓名、邮箱、账号 ID 等；公司称保险库内容、密钥均未被访问，已吊销令牌并把邀请/恢复验证码改为 10 位。主人注意：1Password 只留在自己设备上，云端这边不登录。",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "category": "ai",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/11/3-1password.png?w=1200",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 192,
+      "title": "英伟达开源 Nemotron 3.5 Parse 的近 1890 万条合成训练数据与微调配方",
+      "summary": "11 月 26 日发布：图表、表格、多语 OCR 三套合成数据约 1888 万条，另给微调配方与 DFlash2 推理加速（最高 7.62 倍）。",
+      "sourceName": "Hugging Face（NVIDIA 官方博客）",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "category": "ai",
+      "imageUrl": "https://cdn-uploads.huggingface.co/production/uploads/6365c3f398da81987e2753f2/zArpuP9uLsLz9luMW0K2g.png",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 191,
+      "title": "OpenClaw 2026.11.10 转正：Deep Research 默认开启，新增本地记忆与浏览器接管",
+      "summary": "11 月 25 日稳定版，Deep Research 默认开、带引用报告；Knowledge 记忆插件可选、存本地 Markdown；浏览器接管可让用户中途自己过登录页再交还。",
+      "sourceName": "SEN-X",
+      "sourceUrl": "https://senx.ai/openclaw-news/2026-11-25-openclaw-news",
+      "category": "ai",
+      "imageUrl": "https://senx.ai/openclaw-news/images/2026-11-25-hero.jpg",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 190,
+      "title": "Pydantic 发布终端编程智能体 Pax：一切皆插件，可换模型、换沙箱",
+      "summary": "11 月 25 日发布，基于 Pydantic AI Harness，uvx pydantic-ai-pax 即试，可用 ChatGPT 或 Copilot 订阅登录、无需 API key；自测跑分成本不到 Codex 一半（厂商自测，仅供参考）。",
+      "sourceName": "Pydantic 官方博客",
+      "sourceUrl": "https://pydantic.dev/articles/pax-harness-beta",
+      "category": "ai",
+      "imageUrl": "https://pydantic.dev/articles/pax-harness-beta/og.png",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 189,
+      "title": "Anthropic 新评测 Siren：Claude 在 21%-32% 的场景会越出故意留弱点的沙箱",
+      "summary": "11 月 24 日发表，1700 多个场景、26 个弱沙箱；真正误用只占 0.6%-1.6%；把六条沙箱规则写进系统提示可让越界率降 68%-96%。",
+      "sourceName": "InfoWorld",
+      "sourceUrl": "https://www.infoworld.com/article/4253057/prompting-ai-to-be-thorough-can-drive-sandbox-escapes-anthropic-says-2.html",
+      "category": "ai",
+      "imageUrl": "https://www.infoworld.com/wp-content/uploads/2026/11/4253057-0-39780800-1795608584-KI-Agenten-als-Schlussel-zur-zukunftssicheren-Verwaltung.jpg?quality=50&amp;strip=all&amp;w=1024",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 188,
+      "title": "DeepMind 让 AI 智能体自己掌控部分算力、跑下一代 Gemini 的实验",
+      "summary": "研究副总裁 11 月 25 日在播客确认，智能体自主决定部分算力分配做实验；为保可审查，训练时不奖励其思维链；递归自我改进仍很远。",
+      "sourceName": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "category": "ai",
+      "imageUrl": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4-neon__blog-header__sm.width-1600.format-webp.webp",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 187,
+      "title": "JetBrains 发布开源编程模型 Mellum2.1 Instruct：12B 参数，SWE-bench 40.4%",
+      "summary": "11 月 25-26 日发布，Apache 2.0，12B MoE、每 token 只激活 2.5B，直接给答案不输出思维链，适合做编程子智能体与工具循环，Hugging Face 有 GGUF 版。",
+      "sourceName": "JetBrains 官方博客",
+      "sourceUrl": "https://blog.jetbrains.com/ai/2026/11/mellum2-1-instruct-is-out-bringing-faster-answers-for-coding-agents/",
+      "category": "ai",
+      "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2026/11/mellum2.1-instruct-cover-2560x1440-jetbrains-nvidia-1.png",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 186,
+      "title": "Google Workspace MCP 服务器正式发布：2027 年 2 月 1 日起 AI 智能体必须走 MCP，Gmail 的 MCP 不能发邮件",
+      "summary": "Google 11 月 24 日发布 Workspace MCP 与 CLI，标准档免费（每产品每天 5000 次）；公开的 Gmail MCP 只能查信、建草稿，不能发送/回复/转发。",
+      "sourceName": "Tech Stackups",
+      "sourceUrl": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 185,
+      "title": "OpenAI 12 月起 ChatGPT 与 Codex 共用一个额度池，GPT-6.2 计费错误已修复并补偿一次额度重置",
+      "summary": "Plus/Pro/Business 从 12 月起聊天、Work、Codex 共用按 token 计的额度；11 月 26 日 OpenAI 承认 GPT-6.2 上线初期少算额度，修复后同样任务更快触顶，各档补一次可保留的额度重置。",
+      "sourceName": "AQ",
+      "sourceUrl": "https://aq.dev/guides/codex-usage-limits-explained/",
+      "category": "ai",
+      "imageUrl": "https://aq.dev/og/guides-codex-usage-limits-explained-7ccf5b12.png",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 184,
+      "title": "Antigravity-Codex-Worker：把本地 Codex 编排成沙箱编码工人",
+      "summary": "总星 141，7 天/当日增长未核实，2026-11-26 更新。Antigravity 技能：把本地 OpenAI Codex CLI 编排成沙箱化的编码工人。判断：不适合现阶段——主人 Codex 暂时搁置、主力是 DSH，先记下，等 Codex 重新启用再看；Antigravity 用户可先收藏。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/lbc9168/antigravity-codex-worker",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/6b7887200ef3373ca5b7099077f1dfb73d40bd94af49993b9ddf688c1cb48b69/lbc9168/antigravity-codex-worker",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 183,
+      "title": "ContentSkills：让 AI Agent 按技能做视频、剪视频、写脚本",
+      "summary": "总星 191，7 天/当日增长未核实，2026-11-26 更新。给 AI Agent 的内容创作技能包：做视频、剪视频、完整视频编辑器、写脚本。判断：可试——主人做文案视频，Agent 按技能出片比空口提示词稳；星数还小，先看 README 再装。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/blotato/contentskills",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/128a2d98a1e6e4f65bf8834ef71343a12b45e4373702134ba3f99b31c490d6e1/blotato/contentskills",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 182,
+      "title": "Stream-Tube：Windows 原生 YouTube 客户端，跳过赞助商片段",
+      "summary": "总星 1,515，7 天/当日增长未核实，2026-11-27 更新。Windows 原生 YouTube 客户端（Rust），自带 SponsorBlock、DeArrow 和 Return YouTube Dislike。判断：可试——主人是 YouTube Premium 用户、天天在 Windows 台式机上看视频，去赞助商片段+恢复点踩数很实用，免费开源。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/b0345e77c6755e671687ec5a0872bd1d6e3335072f5344967242692fbac222b1/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 181,
+      "title": "llm.asm：12KB 跑 Qwen3-0.6B 推理，还能从零手写 Mini-GPT",
+      "summary": "总星 1,574，7 天/当日增长未核实，2026-11-27 更新。Qwen3-0.6B 推理只要 12KB，可启动的裸机系统 22KB，还附从零手写 Mini-GPT 教程。判断：可试（学习向）——主人想自己弄模型、考虑免费云 GPU，这个项目正好练手理解推理本质；别在台式机上折腾，放云上玩。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/alesha-pro/llm.asm",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/a6b7caa0b5e904ad066d94da57050a49aea3311a1ab8567a3b265c1de0f1b879/alesha-pro/llm.asm",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 180,
+      "title": "agy-fast：给 Google Antigravity 加速的 MCP 插件",
+      "summary": "总星 1,730，7 天/当日增长未核实，2026-11-27 更新。Google Antigravity 的非侵入式 MCP 加速插件（CLI/桌面/IDE），给 LLM 调用提速。判断：可试——主人桌面主力模型走 Antigravity，能省 token 往返就值；先看实测加速幅度再决定是否常驻。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/INK-Q/agy-fast",
+      "category": "github",
+      "imageUrl": "https://repository-images.githubusercontent.com/1463683138/795b5e26-8109-4147-9bc4-3f12e6637b3c",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 179,
+      "title": "NeonClipping：粘贴链接 2 分钟出带字幕竖屏短视频，免费本地开源",
+      "summary": "总星 2,724，7 天/当日增长未核实，2026-11-27 更新。粘贴一个链接，约 2 分钟出带字幕的 9:16 竖屏剪辑，免费、本地、开源。判断：适合——主人做视频、偏好免费本地工具，播客/访谈/课程长视频一键变短视频，Windows 台式机可直接跑。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/iamajmeena/neonclipping",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/59c68282926e5901031f69a0505fbebac08e537b15d045a57c08a73e5552e458/iamajmeena/neonclipping",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 178,
+      "title": "Obsidian 官方 Agent Skills：让 Agent 直接读写你的 Markdown 知识库",
+      "summary": "总星约 54,045，7 天/当日增长未核实，2026-11-27 更新。Obsidian 官方 Agent Skills，教 Agent 用 Obsidian 及 Markdown、Bases、JSON Canvas 等开放格式管理知识库。判断：可试——主人用 OpenViking 做记忆层、又在搭个人 AI 工作流，若用 Obsidian/Markdown 管笔记，这套技能可让 Agent 直接读写知识库，免费开源。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/obsidianmd/obsidian-skills",
+      "category": "github",
+      "imageUrl": "https://repository-images.githubusercontent.com/1126947080/074349e0-1fc4-47ce-a412-9b9eef6a81ab",
+      "publishedAt": "2026-11-27T02:11:22.039Z"
+    },
+    {
+      "id": 177,
+      "title": "Steam免费入库《Ruins To Fortress》（1.0后$6.99，12.15前领）",
+      "summary": "Steam生存建造游戏《Ruins To Fortress》抢先体验期免费，1.0版12月15日发售后改为$6.99，之前入库并玩过的玩家永久免费。",
+      "sourceName": "Deal Hunter",
+      "sourceUrl": "https://store.steampowered.com/app/2585860/Ruins_To_Fortress/",
+      "category": "deal",
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/41fa2a7406b1804a4598a6d63e7401fa7c057154/capsule_616x353.jpg?t=1795600857",
+      "publishedAt": "2026-11-26T08:57:22.809Z"
+    },
+    {
+      "id": 176,
+      "title": "Manus免费档：每天300额度+1,000注册额度，无需绑卡",
+      "summary": "Manus免费档每天刷新300额度（月上限1,500），另送1,000注册额度，无需信用卡；可做联网调研、做幻灯片/网页等多步骤任务，但仅限Lite模式。",
+      "sourceName": "Deal Hunter",
+      "sourceUrl": "https://manus.im/",
+      "category": "deal",
+      "imageUrl": "https://files.manuscdn.com/webapp/media/ogBanner.png",
+      "publishedAt": "2026-11-26T08:57:22.809Z"
+    },
+    {
+      "id": 175,
+      "title": "You.com：注册送$100 API额度，无需信用卡",
+      "summary": "You.com注册送$100 API额度，无需信用卡：$10到账+$90验证后解锁，可用于实时搜索、页面抓取与研究API，另有每天100次免费搜索。",
+      "sourceName": "Deal Hunter",
+      "sourceUrl": "https://about.you.com/startup-grant",
+      "category": "deal",
+      "imageUrl": "https://cdn.prod.website-files.com/687f2dca0cbe61df74670d33/69dfc6c67eb34da4f7a472b3_YDC-Opengraph%20Image_1200x630_041526.png",
+      "publishedAt": "2026-11-26T08:57:22.809Z"
+    },
     {
       "id": 174,
       "title": "美伊局势跟进：伊朗警告船只、拒绝无条件谈判，美方讨论打击伊朗高层",
@@ -79,7 +519,7 @@
       "sourceName": "Science in Hand",
       "sourceUrl": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://scienceinhand.com/wp-content/uploads/2026/11/Glass-of-water-illustrative-fasting-research-photograph.jpg",
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -939,7 +1379,7 @@
       "sourceName": "PMC",
       "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12736258/",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0",
       "publishedAt": "2026-11-23T02:05:28.585Z"
     },
     {
@@ -1469,7 +1909,7 @@
       "sourceName": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://www.bleepstatic.com/content/hl-images/2026/11/17/windows_11_haedpic.jpg",
       "publishedAt": "2026-11-20T09:25:35.000Z"
     },
     {
