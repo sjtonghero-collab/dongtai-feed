@@ -1,7 +1,417 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T02:13:35.739780Z",
+  "generatedAt": "2026-11-28T02:14:57.081255Z",
   "items": [
+    {
+      "id": 259,
+      "title": "janestreet/agent_skills：Jane Street 的苏格拉底式家教技能",
+      "summary": "总星 12,069，7 天增长未核实。Jane Street 公开的 Agent 技能，目前只有一个 socratic-tutor：把 LLM 变成严格的私人导师，用苏格拉底提问法一题一题教任意主题，含诊断、技能图谱与间隔复习。可试：免费轻量，学新技术时当 AI 家教用，但目前只有一个技能、内容较单薄。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/janestreet/agent_skills",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/a8fa78e629862f4ee07c3e1d095b8d0f9c991d0f0ef3732af011bb405c9c8af4/janestreet/agent_skills",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 258,
+      "title": "dsh-superagent：DeepSeek 官方的自主 Agent 原型",
+      "summary": "总星 24,742，7 天增长未核实。DeepSeek 发布的 DSH 超级 Agent 研究原型：监听 GitHub/飞书、自主开工单、提 PR 回复，配套 8 篇设计文档讲透超 Agent 理念，仅 1 次提交、明确标注研究代码非生产可用。可试：与主人桌面主力 DSH 同源，理念和文档值得读，但只是研究原型，别直接部署生产。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/a768329b31027fa1e2d84052cd40edd9b6b1e2ccbe3fda1a5e870615e7abed30/deepseek-ai/dsh-superagent-prototype",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 257,
+      "title": "agent-desktop：让 AI Agent 直接操作 Windows 桌面的 CLI",
+      "summary": "总星 27,105，7 天增长未核实。Vercel Labs 的电脑操作工具：不靠截图猜像素，读系统无障碍树给 Agent 结构化 UI 信息，可点击打字，支持 Windows/macOS/Linux，提供 MCP 服务，Apache 开源。适合：Windows 台式机原生支持，DSH 里的 Agent 靠它能真正操作桌面应用，免费开源。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/vercel-labs/agent-desktop",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/e0185efc1f5235d5da958a8d6d61f5178455c2d49bf4f3ac1bf3f098f81c4250/vercel-labs/agent-desktop",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 256,
+      "title": "OpenMontage：开源 Agent 视频制作系统，一句话出成片",
+      "summary": "总星 83,869，7 天增长未核实。把 AI 编码助手变成完整视频制作工作室：12 条制作流水线、100+ 工具、700+ 技能文件，零 API Key 可走免费实拍素材路线，支持 Claude Code、Cursor、Codex。可试：主人喜欢摄影视频，做短视频/产品片有潜力，但全套跑起来较重，先看文档再决定。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/OpenMontageInc/OpenMontage",
+      "category": "github",
+      "imageUrl": "https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 255,
+      "title": "addyosmani/agent-skills：26 个生产级工程技能全流程包",
+      "summary": "总星 120,801，7 天增长未核实。Google 工程师 Addy Osmani 的 26 个技能包，覆盖定义需求、拆计划、写代码、测试、评审到上线全流程，支持 Claude Code、Codex、Antigravity、Gemini CLI 等 70+ Agent。适合：Antigravity/DSH 通用，免费开源，和 mattpocock/skills 二选一或搭配用都行。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/cecb368f31c842db6bac3c8970320cd0478c4c074bbdecf6eed4f70ce4011718/addyosmani/agent-skills",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 254,
+      "title": "taste-skill：让 Agent 做出 Figma 级公司官网的审美技能",
+      "summary": "总星 122,361，7 天增长未核实。教编码 Agent 做专业公司网站的技能：真实照片、真实品牌图标、单屏一节、真机浏览器验收，支持 Claude Code 与 Codex 插件安装，无需 API Key。适合：做家族生意或个人项目落地页时提质明显，免费且有浏览器实测验收关。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/Leonxlnx/taste-skill",
+      "category": "github",
+      "imageUrl": "https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 253,
+      "title": "UI UX Pro Max：让 Agent 做出专业级界面的设计技能",
+      "summary": "总星 155,175，7 天增长未核实。给编码 Agent 的设计智能技能，内置 194 条行业设计规则、80 种 UI 风格、设计系统生成器，支持 Claude Code、Codex、Cursor 等多平台，基础版免费开源。适合：主人做网页/动态 App 界面时直接用，免费基础版已够用，告别千篇一律的 AI 味页面。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "category": "github",
+      "imageUrl": "https://repository-images.githubusercontent.com/1106996539/d7c84c2d-e797-405f-a868-87fb194e8432",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 252,
+      "title": "Karpathy 编码准则：一个 CLAUDE.md 让 Agent 少犯低级错",
+      "summary": "总星 236,224，7 天增长未核实。源自 Andrej Karpathy 对 LLM 编码毛病的观察，提炼为先思考、极简、只改必要处、目标驱动四条原则，一个 CLAUDE.md 文件即可接入 Claude Code 或 Cursor。适合：零成本、即贴即用，能直接减少 DSH 里 Agent 过度发挥和乱改代码的问题。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/a1e3cf281d6f02a86c18216024b9bb1df7a21580dde937aabeeabb6807e4764b/multica-ai/andrej-karpathy-skills",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 251,
+      "title": "anthropics/skills：Anthropic 官方 Agent Skills 仓库",
+      "summary": "总星 201,538，7 天增长未核实。Anthropic 官方发布的 Agent Skills 示例与规范，含创意设计、开发技术、企业沟通和 docx/pdf/pptx/xlsx 文档技能，全部开源可直接装进 Claude Code 插件市场。适合：官方出品的技能标准与范例，免费，是自己写技能最好的参考模板。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/anthropics/skills",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/dc85908dc84ce409341af29b6e40700d450aa2e3e457333afedcb5a0314f4632/anthropics/skills",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 250,
+      "title": "mattpocock/skills：真实工程技能包，专治 Agent 瞎写代码",
+      "summary": "总星 334,293，7 天增长未核实。Matt Pocock 每天自用的 Agent 技能合集，含 /grill-me 需求对齐、/tdd 测试驱动、/diagnosing-bugs 排障等，支持 Claude Code、Codex、Copilot、Gemini CLI，免费开源 MIT 协议。适合：直接补 DSH/Antigravity 工作流的工程纪律，免费且安装 30 秒，Codex 插件也支持。",
+      "sourceName": "GitHub",
+      "sourceUrl": "https://github.com/mattpocock/skills",
+      "category": "github",
+      "imageUrl": "https://opengraph.githubassets.com/6859a447ed94f229696743d7ad1399d4a90140888f3304200d1ab3293a8acf84/mattpocock/skills",
+      "publishedAt": "2026-11-28T02:14:15.566Z"
+    },
+    {
+      "id": 249,
+      "title": "11月蒜价复盘：从1.95跌到1.83，跌幅6.15%，12月或再探1.75",
+      "summary": "11月大蒜月度复盘：月初1.95元/斤为月内高点，月末跌至1.83元/斤，整月跌0.12元、跌幅6.15%，呈缓慢失血式下跌；文章判断12月价格大概率继续下探，1.75元/斤是关键位置。",
+      "sourceName": "大蒜信息平台",
+      "sourceUrl": "https://www.cndasuan.com/news/yuehangqing/articles_92613.html",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 248,
+      "title": "地缘晴雨表：欧盟拟第22轮对俄制裁，北约增派预警机赴波兰",
+      "summary": "欧盟委员会提出第22轮对俄制裁方案，针对约60家银行与规避制裁网络；美国财政部制裁20多个与伊朗金融中介网络有关的目标；北约在俄导弹越境事件后增派空中预警机保护波兰。",
+      "sourceName": "NRB",
+      "sourceUrl": "https://nrb.bg/en/2026-11-24-geopolitics-barometer-sanctions-widen-as-nato-reinforces-poland-s/",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 247,
+      "title": "特朗普警告伊朗：若再行动将打击Pickaxe Mountain，称伊朗核武将致核浩劫",
+      "summary": "特朗普在感恩节致电美军时称，若美方采取进一步军事行动将“绝对打击Pickaxe Mountain”，并警告伊朗获得核武器可能导致核浩劫；美伊谈判仍通过中间方进行，进展甚微。",
+      "sourceName": "Sunday Guardian Live",
+      "sourceUrl": "https://sundayguardianlive.com/world/us-israel-iran-war-latest-live-updates-trump-threatens-to-bomb-irans-pickaxe-mountain-warns-of-nuclear-holocaust-if-tehran-acquires-atomic-weapons-what-happens-next-328346/",
+      "category": "other",
+      "imageUrl": "https://sundayguardianlive.com/wp-content/uploads/2026/11/trump-us-iran-war.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 246,
+      "title": "冒险岛v2.0更新详解：15件新武器、制作9级、组队拾取规则改动",
+      "summary": "冒险岛经典世界v2.0更新详解：新增15件30-50级武器、制作升至9级、组队拾取权规则调整；月兔年糕组队任务持续至12月9日，感恩节活动至12月8日，每日签到至12月16日。",
+      "sourceName": "MS-Classic",
+      "sourceUrl": "https://ms-classic.com/news/november-update-v2-0-patch-notes",
+      "category": "other",
+      "imageUrl": "https://ms-classic.com/img/hero.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 245,
+      "title": "冒险岛经典世界11月大更新：遗忘洞穴开放，新增世界Zenith",
+      "summary": "冒险岛经典世界11月18日更新至v2.0.0：开放隐藏洞穴城镇遗忘洞穴，含29张地图、10种怪物、60级Boss腐烂蘑菇妈妈与34个任务，并新增第二世界Zenith；感恩节与月兔年糕组队任务同步上线。",
+      "sourceName": "MapleClassic Wiki",
+      "sourceUrl": "https://mapleclassic.wiki/wiki/Update:18_November_2026_Forgotten_Hollow",
+      "category": "other",
+      "imageUrl": "https://mapleclassic.wiki/rest.php/maplewiki/v1/card.png?title=Update%3A18%20November%202026%20Forgotten%20Hollow&amp;cv=4&amp;v=92585",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 244,
+      "title": "徕卡联手Billingham推出两款英国制造相机包，索尼FX5获Netflix认证",
+      "summary": "11月27日摄影新闻：徕卡与Billingham合作推出两款英国制造相机包；索尼FX5获Netflix认证；DJI宣布12月1日起停止Inspire 2等老机型的维修与技术支持。",
+      "sourceName": "What Digital Camera",
+      "sourceUrl": "https://www.whatdigitalcamera.com/photography-news",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 243,
+      "title": "本周摄影：尼康ZR固件2.00上线，D6与Z5疑似在美停产",
+      "summary": "11月27日摄影周报：尼康ZR固件2.00免费更新，加入H.265格式Log3G10；D6与Z5疑似在美国停产；另有288MP工业检测相机发布与Thypoch 349美元富士X卡口自动对焦定焦头。",
+      "sourceName": "EXIFrame",
+      "sourceUrl": "https://exiframe.app/blog",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 242,
+      "title": "摄影一周：松下Lumix SHX1欧洲12月开售，尼康D850传停产",
+      "summary": "11月27日摄影新闻：松下6K电影机Lumix SHX1欧洲12月发货、英国预售4399英镑；尼康D850据传已停产，同批还有D6、Z5及四支F卡口镜头；富士GFX Eterna 55新增9999美元单机身版。",
+      "sourceName": "Shutter Snack",
+      "sourceUrl": "https://shuttersnack.com/news/",
+      "category": "other",
+      "imageUrl": "https://shuttersnack.com/og-image.png",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 241,
+      "title": "Insta360 Ace Pro 3定档12月1日发布：可变光圈、可换镜头",
+      "summary": "Insta360预告Ace Pro 3将于12月1日在中国发布，预告片透露虚化、可变光圈、可换镜头与自动对焦四点线索，电池据FCC资料为2250mAh，较上代的1800mAh明显增大。",
+      "sourceName": "GizmoChina",
+      "sourceUrl": "https://www.gizmochina.com/2026/11/27/insta360-ace-pro-3-set-to-launch-on-december-1st-with-variable-aperture-and-interchangeable-lenses/",
+      "category": "other",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 240,
+      "title": "55岁以上人群试验：素食组与杂食组练12周都长肌肉，但素食未证非劣效",
+      "summary": "108名55岁以上成人的IMPACT随机试验：12周抗阻训练后，乳蛋素食组四肢肌肉增0.38kg，杂食组增0.66kg，两组力量与功能均改善，但按预设界值未能证明素食不劣于杂食。",
+      "sourceName": "VegOut Magazine",
+      "sourceUrl": "https://vegoutmag.com/food-and-drink/resistance-training-trial-vegetarian-omnivorous-counselling-muscle/",
+      "category": "other",
+      "imageUrl": "https://vegoutmag.com/wp-content/uploads/2026/11/vegetarian-diet-muscle-gain-trial-over-55s-featured.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 239,
+      "title": "贝叶斯网状Meta分析：乳清蛋白每日30-35g时瘦体重增长最优",
+      "summary": "纳入36项试验、1552人的贝叶斯网状Meta分析显示，配合抗阻训练时乳清蛋白对瘦体重增长排名第一，剂量反应曲线在每日30-35g处趋于平台；65岁以上人群中乳清优势收窄，酪蛋白排名上升。",
+      "sourceName": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1860234/full",
+      "category": "other",
+      "imageUrl": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/EB0A75ED-DA9A-4E9E-BB44C4C760E69730/D00A5BAA-D4AF-4D82-B07094E8F5B6E1EB/WebsiteWebP_XL-FNUT_Main Visual_Green_Website.webp",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 238,
+      "title": "Meta分析：补蛋白+抗阻训练可多增卧推2.63kg、深蹲7.40kg",
+      "summary": "《营养学前沿》2026年10月发表的Meta分析纳入23项随机对照试验、611名健康年轻人：相比单纯抗阻训练，补蛋白组卧推多增2.63kg、深蹲多增7.40kg，效果在干预12周内与练前后及睡前补蛋白时更明显。",
+      "sourceName": "Frontiers in Nutrition",
+      "sourceUrl": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1946052/full",
+      "category": "other",
+      "imageUrl": "https://d2csxpduxe849s.cloudfront.net/media/E32629C6-9347-4F84-81FEAEF7BFA342B3/EB0A75ED-DA9A-4E9E-BB44C4C760E69730/D00A5BAA-D4AF-4D82-B07094E8F5B6E1EB/WebsiteWebP_XL-FNUT_Main Visual_Green_Website.webp",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 237,
+      "title": "弗吉尼亚与俄勒冈州检察长起诉SpaceX：Grok生成儿童性剥削与非自愿亲密图像",
+      "summary": "弗吉尼亚与俄勒冈州检察长起诉SpaceX及旗下X、xAI，指控Grok在未获同意的情况下生成儿童与成人的性化图像并通过X传播，同时虚假宣传平台安全性；诉讼已提交法院。",
+      "sourceName": "Virginia Attorney General",
+      "sourceUrl": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "category": "x",
+      "imageUrl": "https://www.oag.state.va.us/images/OAG-Tile-Image-Jones_20260121.jpg?20220117",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 236,
+      "title": "AI日报11月28日：特斯拉拟收购德国机床商EMAG，沃尔沃训练人形机器人",
+      "summary": "11月28日AI简报：特斯拉已向德国监管机构申报收购机床商EMAG，交易待审批；沃尔沃在根特工厂训练人形机器人AEON，计划2027年中开展生产试点。",
+      "sourceName": "Dean on AI",
+      "sourceUrl": "https://www.deanlu.ai/",
+      "category": "ai",
+      "imageUrl": "https://deanlu.ai/static/dean-on-ai-insights.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 235,
+      "title": "The Verge：Android自制小工具让vibe coding变得好玩",
+      "summary": "The Verge 11月27日报道，Android上用户自制小工具的功能被评价为带有vibe coding乐趣的体验，即用自然语言描述需求、由AI生成程序；同期腾讯AI药物研发成果登上《Nature》。",
+      "sourceName": "FDE AI",
+      "sourceUrl": "https://www.fdeai.ai/insights",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 234,
+      "title": "中国AI简报11月28日：电信257亿采购AI超节点，智元G2进组装线",
+      "summary": "11月28日中国AI简报：英伟达暂停向东南亚四国发运服务器；中国电信拟最高257.88亿元采购AI超节点设备；智元人形机器人精灵G2从质检线转入扬声器装配线，并获联合国工发组织奖项。",
+      "sourceName": "KIMKJ",
+      "sourceUrl": "https://kimkj.com/hi/ai-board-hi/?mod=document&uid=23272",
+      "category": "ai",
+      "imageUrl": "https://kimkj.com/wp-content/uploads/kimkj-social/kimkj-social-default-v1.png",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 233,
+      "title": "开发者新闻摘要：Hugging Face多智能体训练成功率从6.6%升至82.3%",
+      "summary": "Hugging Face公布多智能体群体强化学习实验，四个共享0.6B Qwen3模型的Agent协作后成功率从6.6%升至82.3%；Anthropic设1700多个陷阱测试Claude在沙箱失效时的行为。",
+      "sourceName": "DEV Community",
+      "sourceUrl": "https://dev.to/magnus_ferm/dev-news-digest-26-nov-2026-0600-k8p",
+      "category": "ai",
+      "imageUrl": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojkmahtz0tre99xwjrzh.png",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 232,
+      "title": "日本政府拟修AI法：高性能AI企业须履行安全与事故报告义务，违令将处罚",
+      "summary": "日本政府11月27日公布AI法修正案概要，要求提供高性能AI的企业履行安全确保与误动作等事故报告义务，不服从命令将受处罚，力争提交明年例行国会。",
+      "sourceName": "朝日新闻",
+      "sourceUrl": "https://www.asahi.com/articles/DA3S16597088.html?iref=ogimage_rek",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 231,
+      "title": "11月模型发布追踪：富士通FoxBrain v2.1、JetBrains Mellum 2.1等集中上线",
+      "summary": "11月模型发布清单11月27日更新：鸿海研究院发布31B企业本地部署模型FoxBrain v2.1，亚马逊推出Transcribe Turbo预览版，JetBrains开源无推理链的编程模型Mellum 2.1 Instruct。",
+      "sourceName": "No Code MBA",
+      "sourceUrl": "https://www.nocode.mba/ai-release-tracker/2026/11",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 230,
+      "title": "Product Hunt今日：Contral——会边写代码边教你的AI Agent",
+      "summary": "Contral今日正式出测试版，IDE 1.1与插件1.0上线：可在Claude Code、Codex、Cursor等Agent内运行，每轮自动核查改动是否与需求相符，附教学卡片与一键撤销，免费版每天30条Agent消息。",
+      "sourceName": "Product Hunt",
+      "sourceUrl": "https://www.producthunt.com/products/contral",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 229,
+      "title": "开发者工具日报：Pydantic AI v2.77、MCP Servers v2.6.0与Cline v4.1.28发布",
+      "summary": "11月27日开发者工具动态：Pydantic AI发布v2.77.0，为已弃用模型请求加警告；MCP Servers v2.6.0修复8个漏洞；Cline v4.1.28刷新模型目录，移除一批已弃用模型ID。",
+      "sourceName": "AI Daily by rclabs",
+      "sourceUrl": "https://daily.rclabs.in/t/devtools",
+      "category": "ai",
+      "imageUrl": "https://daily.rclabs.in/og/live.png",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 228,
+      "title": "英伟达被曝叫停向东南亚四国发运AI服务器",
+      "summary": "据金融时报报道，英伟达已通知戴尔、超微等制造伙伴暂停向马来西亚、新加坡、泰国、印尼发运搭载先进芯片的服务器，以配合美国收紧出口管制、堵住经第三国转口的漏洞，暂停时长未定。",
+      "sourceName": "NHK WORLD",
+      "sourceUrl": "https://www3.nhk.or.jp/nhkworld/news/20261127de82397/",
+      "category": "ai",
+      "imageUrl": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/news/20261127de82397_E0000216508_L.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 227,
+      "title": "FCC有条件批准SpaceX Starmind：最多部署100万颗轨道算力卫星",
+      "summary": "美国FCC于11月25日有条件批准SpaceX的Starmind轨道AI数据中心星座，最多100万颗卫星，首颗须在2033年11月前运行，2040年完成；这是监管许可，不是已部署的服务。",
+      "sourceName": "The AI Wire",
+      "sourceUrl": "https://www.netpractitioner.com/status-announced.html",
+      "category": "ai",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 226,
+      "title": "OpenAI开始小范围测试Private Inference，推理过程数据加密不可见",
+      "summary": "OpenAI于11月25日宣布开始与一小批企业客户测试Private Inference，用机密计算保护提示词与回答在模型运行过程中的隐私，目前为Alpha阶段，未公布价格与全面上线时间。",
+      "sourceName": "The Artificial Brief",
+      "sourceUrl": "https://www.theartificialbrief.io/p/daily-ai-news-11262026",
+      "category": "ai",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!iRYL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbba4b56a-029a-49d2-a2b4-20de0b2a9785_2720x1530.jpeg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 225,
+      "title": "xAI发布Grok Build 1.0.92，强化无头Agent会话可靠性",
+      "summary": "xAI于11月27日发布终端AI编程助手Grok Build 1.0.92，重点修复无头会话可靠性，新增5分钟无活动超时，并改进无头流式传输中的图片处理。",
+      "sourceName": "KuCoin News",
+      "sourceUrl": "https://www.kucoin.com/news/flash/xai-releases-grok-build-1-0-92-with-enhanced-headless-agent-reliability",
+      "category": "ai",
+      "imageUrl": "https://assets.staticimg.com/@kudos/runtime/1.0.1/assets/og-ea52b6f9440e857c.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 224,
+      "title": "小米汽车发布World Model 2.0，覆盖智驾与机器人",
+      "summary": "小米汽车发布World Model 2.0因果世界模型，一套架构覆盖1至7路摄像头，训练语料据称达1260万条片段，用于辅助驾驶与机器人，已交付20万条以上合成训练片段。",
+      "sourceName": "Venture Atlas",
+      "sourceUrl": "https://www.ventureatlas.org/news/2026-11-27-xiaomi-auto-world-model",
+      "category": "ai",
+      "imageUrl": "https://www.ventureatlas.org/news/2026-11-27-xiaomi-auto-world-model/opengraph-image?d93f96603b5ebb75",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 223,
+      "title": "腾讯混元发布专业3D大模型Hy3D 3.6，高模与PBR贴图再升级",
+      "summary": "腾讯混元团队发布Hy3D 3.6，原生3D模型面向专业美术生产，生成高精度几何与PBR材质贴图，已作为API上线；同期蚂蚁开源机器人导航栈LingBot-Map 2.0。",
+      "sourceName": "Silicon Noon",
+      "sourceUrl": "https://siliconnoon.com/today-in-ai-november-27-2026/",
+      "category": "ai",
+      "imageUrl": "https://siliconnoon.com/content/images/size/w1200/2026/11/cover-294.png",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 222,
+      "title": "谷歌DeepCrossAttention：让Transformer残差连接动态选层，提速最高3倍",
+      "summary": "谷歌研究院介绍DeepCrossAttention，用深度交叉注意力替代固定残差相加，让每层动态选择历史层特征，在相同质量下训练步数最多减少至五分之一，参数量可省30-40%。",
+      "sourceName": "Google Research Blog",
+      "sourceUrl": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "category": "ai",
+      "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 221,
+      "title": "Sber开源GigaChat 4：708B与37B双尺寸MoE模型",
+      "summary": "Sber的GigaChat团队发布GigaChat 4，708B总量（激活41B）旗舰权重采用MIT协议开源，37B版本同步发布；同日还开源了GigaAM语音识别模型。",
+      "sourceName": "Startrise",
+      "sourceUrl": "https://www.startrise.io/models/",
+      "category": "ai",
+      "imageUrl": "https://www.startrise.io/og/models.png",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 220,
+      "title": "Liquid AI发布决策模型d1.3-ultra，登顶决策指数榜首",
+      "summary": "Liquid AI于11月27日发布d1.3-ultra，在Artificial Analysis决策指数上以76.4分位列27个决策模型第一，可做选项排序、从图片收据和音频中提取信息。",
+      "sourceName": "Sulat",
+      "sourceUrl": "https://news.sulat.com/2026/11/28/liquid-ai-decision-model-ultra/",
+      "category": "ai",
+      "imageUrl": "https://news.sulat.com/wp-content/uploads/2026/11/hero-liquid-ai-d1-3-ultra-decision-model.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
+    {
+      "id": 219,
+      "title": "英伟达开源30B自回归图像模型Nemotron-Labs-Image",
+      "summary": "英伟达发布30B参数自回归图像生成模型，以序列方式生成视觉token，配套智能体系统在部分基准上超过GPT Image 2。同日蚂蚁Ling-3.2-air、Krafton Raon-1 mini等多款开源模型集中发布。",
+      "sourceName": "AISeng Tech",
+      "sourceUrl": "http://aisengtech.com/ai-research-open-source-llm-brief-2026-11-27/",
+      "category": "ai",
+      "imageUrl": "https://aisengtech.com/image/og-default.jpg",
+      "publishedAt": "2026-11-28T02:08:25.213Z"
+    },
     {
       "id": 218,
       "title": "塔巴塔+力量训练：练后 30 分钟脂肪供能占比达 68%，但只是一次实验",
@@ -9,7 +419,7 @@
       "sourceName": "FITPEAK",
       "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/tabata-resistance-training-post-exercise-fat-oxidation-obese-men-2026",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://fitpeak.co/cdn/shop/articles/tabata-rt-fat-oxidation-fig1.webp?v=1795330082&width=1600",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -19,7 +429,7 @@
       "sourceName": "FITPEAK",
       "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/capsaicin-acute-intake-athletic-performance-meta-analysis-2026",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://fitpeak.co/cdn/shop/articles/RSSN_A_2733576_F0003_C.webp?v=1795492065&width=1600",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -129,7 +539,7 @@
       "sourceName": "MMODude",
       "sourceUrl": "https://www.mmodude.com/patches/maplestory/",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://www.mmodude.com/assets/og/guides/patches--maplestory.jpg",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -139,7 +549,7 @@
       "sourceName": "FITPEAK",
       "sourceUrl": "https://fitpeak.co/blogs/kinniku-times/sleep-apnea-resistance-training-sleep-quality-rct-2026",
       "category": "other",
-      "imageUrl": null,
+      "imageUrl": "https://fitpeak.co/cdn/shop/articles/stock_01_woman-doing-squat-workout-in-gym-with-ba_e77aa3c6-437d-42af-b970-8e3d25663b7f.jpg?v=1795470599&width=1600",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -329,7 +739,7 @@
       "sourceName": "Tech Stackups",
       "sourceUrl": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
       "category": "ai",
-      "imageUrl": null,
+      "imageUrl": "https://techstackups.com/img/articles/google-workspace-agent-api/cover.jpg",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -349,7 +759,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/lbc9168/antigravity-codex-worker",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/6b7887200ef3373ca5b7099077f1dfb73d40bd94af49993b9ddf688c1cb48b69/lbc9168/antigravity-codex-worker",
+      "imageUrl": "https://opengraph.githubassets.com/75cc76378a4da82b351b4dac395d0705791f51504233250ea0b785464c5e43f3/lbc9168/antigravity-codex-worker",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -359,7 +769,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/blotato/contentskills",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/128a2d98a1e6e4f65bf8834ef71343a12b45e4373702134ba3f99b31c490d6e1/blotato/contentskills",
+      "imageUrl": "https://opengraph.githubassets.com/a823b901bdb0647deac241c449277524fd1890508b274b48b5c67ee4f4c0ed29/blotato/contentskills",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -369,7 +779,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/b0345e77c6755e671687ec5a0872bd1d6e3335072f5344967242692fbac222b1/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "imageUrl": "https://opengraph.githubassets.com/f9d40e665902fd36d08bea0b6d71c5c19665e74a06336eaa7415f48fb7e529da/Avaneesh-Inamdar/Stream-Tube-Desktop",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -379,7 +789,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/alesha-pro/llm.asm",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/a6b7caa0b5e904ad066d94da57050a49aea3311a1ab8567a3b265c1de0f1b879/alesha-pro/llm.asm",
+      "imageUrl": "https://opengraph.githubassets.com/fd08c7c24acc470eb6418e61ae1a9ea2b5e40d14ced847d016a8c567773d5203/alesha-pro/llm.asm",
       "publishedAt": "2026-11-27T02:11:22.039Z"
     },
     {
@@ -419,7 +829,7 @@
       "sourceName": "Deal Hunter",
       "sourceUrl": "https://store.steampowered.com/app/2585860/Ruins_To_Fortress/",
       "category": "deal",
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585860/41fa2a7406b1804a4598a6d63e7401fa7c057154/capsule_616x353.jpg?t=1795600857",
+      "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2585860/41fa2a7406b1804a4598a6d63e7401fa7c057154/capsule_616x353.jpg?t=1795600857",
       "publishedAt": "2026-11-26T08:57:22.809Z"
     },
     {
@@ -489,7 +899,7 @@
       "sourceName": "PetaPixel",
       "sourceUrl": "https://petapixel.com/2026/11/24/new-york-times-prohibits-photographers-from-using-photoshop-2027/",
       "category": "other",
-      "imageUrl": "https://petapixel.com/assets/uploads/2026/11/nyt-photoshop-featured.jpg",
+      "imageUrl": null,
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -519,7 +929,7 @@
       "sourceName": "Science in Hand",
       "sourceUrl": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
       "category": "other",
-      "imageUrl": "https://scienceinhand.com/wp-content/uploads/2026/11/Glass-of-water-illustrative-fasting-research-photograph.jpg",
+      "imageUrl": null,
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -599,7 +1009,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "category": "ai",
-      "imageUrl": "https://opengraph.githubassets.com/ec26360545dfbcf76be52810b134c4810b2564d6cd3479cf82c5e6f76fb42580/google-research/google-research",
+      "imageUrl": "https://opengraph.githubassets.com/d05d6660ca6763f265662de358050e70d4a089f6f2e137fe01d5d909b1d3c390/google-research/google-research",
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -609,7 +1019,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/lsernau/grh-lean",
       "category": "ai",
-      "imageUrl": "https://opengraph.githubassets.com/8915212f091afbba215a71bb50ed17dddb18fdce4299f54097f6c20dbfd40219/lsernau/grh-lean",
+      "imageUrl": "https://opengraph.githubassets.com/feca92ae9596a821e1f7e6467216a2122024407bbca7b124e63d51fc6dd29624/lsernau/grh-lean",
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -689,7 +1099,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/tradermonty/claude-trading-skills",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/8d39b1ae22457cd9a7ffaeba8b300728398f087cf77cb84cfa2b02f358c16f6f/tradermonty/claude-trading-skills",
+      "imageUrl": "https://opengraph.githubassets.com/f4233ec7ff2a1b3715d95c2b2766ae340cf029d2c1d99be62d4bf47ff9e73eda/tradermonty/claude-trading-skills",
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -699,7 +1109,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/ag-ui-protocol/ag-ui",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/6237183a1c8868513d4f4e1702db3c1c029384c93995cc0546b4927d320bcb0d/ag-ui-protocol/ag-ui",
+      "imageUrl": "https://opengraph.githubassets.com/f97901de74b695926f5fe64f9575594320911c54556e6abe549d6848f5df8ddf/ag-ui-protocol/ag-ui",
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -709,7 +1119,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/backnotprop/plannotator",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/fa52f9732d0c723deea3dc0c511c00387d29fd22369b62774aa010127eee3286/backnotprop/plannotator",
+      "imageUrl": "https://opengraph.githubassets.com/135f79fed4d627d87fb2ed5368cb282fb5e166a2c0e0052130159991488b1600/backnotprop/plannotator",
       "publishedAt": "2026-11-26T02:08:36.308Z"
     },
     {
@@ -939,7 +1349,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/f7647ff951de5c6a7a95ebeb830833bf2f286109457deafe2b2d57fdcc9f13d2/GoogleChrome/modern-web-guidance-src",
+      "imageUrl": "https://opengraph.githubassets.com/715efc500363adc0b797e4f3521f32b0826548e90e4fd37a0faa8cdeea88d1d1/GoogleChrome/modern-web-guidance-src",
       "publishedAt": "2026-11-25T02:05:39.874Z"
     },
     {
@@ -959,7 +1369,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/cd31f288217191f4520931d13439adfc40e7c38d36ec1922e7aa4c34f31a0081/ChromeDevTools/chrome-devtools-mcp",
+      "imageUrl": "https://opengraph.githubassets.com/9c471784a2c7936a2f9268dc9b882b6fce2cc11017709a6cc60160b2db6583fa/ChromeDevTools/chrome-devtools-mcp",
       "publishedAt": "2026-11-25T02:05:39.874Z"
     },
     {
@@ -1049,7 +1459,7 @@
       "sourceName": "Keyabode",
       "sourceUrl": "https://keyabode.eu/news/eyedrpx",
       "category": "other",
-      "imageUrl": "https://ts2.mm.bing.net/th?q=リビアのハフタル氏が トルコを訪問した、部族は 「新たな関係の段階」を称賛し",
+      "imageUrl": "https://ts2.mm.bing.net/th?q=キューバの海で 貨物船が沈没し、1人の船員が死亡し、エジプトとインドネシアに所属する 乗組員3人が行方不明に",
       "publishedAt": "2026-11-24T02:04:48.100Z"
     },
     {
@@ -1089,7 +1499,7 @@
       "sourceName": "PetaPixel",
       "sourceUrl": "https://petapixel.com/2026/11/23/no-two-copies-of-light-lens-labs-new-40mm-f-2-hua-lens-are-the-same/",
       "category": "other",
-      "imageUrl": "https://petapixel.com/assets/uploads/2026/11/light-lens-lab-40mm-hua-featured.jpg",
+      "imageUrl": null,
       "publishedAt": "2026-11-24T02:04:48.100Z"
     },
     {
@@ -1239,7 +1649,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/microsoft/markitdown",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/bcc92ff287cc99781ada1cce54934efe501cffaf5e8b1842c2ec0c5f82f5929f/microsoft/markitdown",
+      "imageUrl": "https://opengraph.githubassets.com/3503f372e0e396b1e906bc32c2ca41ccd92e2cd6dd9b4a28687a0e40f1bb660e/microsoft/markitdown",
       "publishedAt": "2026-11-24T02:04:48.100Z"
     },
     {
@@ -1249,7 +1659,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/mjmirza/app-store-compliance",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/8915212f091afbba215a71bb50ed17dddb18fdce4299f54097f6c20dbfd40219/mjmirza/app-store-compliance",
+      "imageUrl": "https://opengraph.githubassets.com/ea0d27772af9e2ed3805fdbd8294f99ef6f93e7497f96e45f2bd41b1a672023a/mjmirza/app-store-compliance",
       "publishedAt": "2026-11-24T02:04:48.100Z"
     },
     {
@@ -1259,7 +1669,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/zhouxiaoka/autoclip",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/62bcafd437310c6136f473f56355da37082fbdc5771ccbb24b68e921ddb38f2f/zhouxiaoka/autoclip",
+      "imageUrl": "https://opengraph.githubassets.com/d8de433017227b1e7ff8246b0b05102e2c3f034d598790c125f1da053d512a41/zhouxiaoka/autoclip",
       "publishedAt": "2026-11-24T02:04:48.100Z"
     },
     {
@@ -1319,7 +1729,7 @@
       "sourceName": "联合新闻网",
       "sourceUrl": "https://udn.com/news/amp/story/6809/9895239",
       "category": "other",
-      "imageUrl": "https://p.udn.com.tw/upf/2017_news/noimg_cid7225_5.jpg",
+      "imageUrl": "https://p.udn.com.tw/upf/2017_news/noimg_cid7225_9.jpg",
       "publishedAt": "2026-11-23T02:05:28.585Z"
     },
     {
@@ -1459,7 +1869,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/cathrynlavery/diagram-design",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/4255d8e2fead6553e5a2e3a8514e71965f999c4c99ede9e288b23c7d36bdd796/cathrynlavery/diagram-design",
+      "imageUrl": "https://opengraph.githubassets.com/a852df7d8e7b92db650879b14bf74e9a1c6e37346d307abafea92395185fdf2c/cathrynlavery/diagram-design",
       "publishedAt": "2026-11-23T02:05:28.585Z"
     },
     {
@@ -1469,7 +1879,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/mvanhorn/last30days-skill",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/19f35f8822b87b1868c26707412326bfeb0fb58d7680cbac45b4626ddb18546c/mvanhorn/last30days-skill",
+      "imageUrl": "https://opengraph.githubassets.com/769f28fc6d4df146aaa676c686259d2019b7377ef03827e4dc5c1c9ed0dc6d49/mvanhorn/last30days-skill",
       "publishedAt": "2026-11-23T02:05:28.585Z"
     },
     {
@@ -1629,7 +2039,7 @@
       "sourceName": "CASRAI",
       "sourceUrl": "https://casrai.org/news/google-gemini-4-hydrogen-release-2026",
       "category": "ai",
-      "imageUrl": "https://casrai.org/api/og?title=Google%20releases%20Gemini%204%20Hydrogen&amp;eyebrow=Editorial&amp;type=editorial",
+      "imageUrl": "https://objectstorage.us-ashburn-1.oraclecloud.com/n/ido7qwlr5kaw/b/casrai-news-images/o/google-gemini-4-hydrogen-release-2026-bb33.jpg",
       "publishedAt": "2026-11-22T02:04:07.295Z"
     },
     {
@@ -1669,7 +2079,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/Graphify-Labs/graphify",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/96b71b8694c1286d1ef4b1225850070b6b16ecf43dde03a2fc88d71638fcb18f/Graphify-Labs/graphify",
+      "imageUrl": "https://opengraph.githubassets.com/7936477a0f732a74a4044b1b8f966fd77dd6e3918481d6ecec2af8d3d3b03be1/Graphify-Labs/graphify",
       "publishedAt": "2026-11-22T02:04:07.295Z"
     },
     {
@@ -1679,7 +2089,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/google-labs-code/stitch-skills",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/96b71b8694c1286d1ef4b1225850070b6b16ecf43dde03a2fc88d71638fcb18f/google-labs-code/stitch-skills",
+      "imageUrl": "https://opengraph.githubassets.com/35ea584a929bab47446796bad5a2206c17bfd13efe28e47806ece612fb3378f0/google-labs-code/stitch-skills",
       "publishedAt": "2026-11-22T02:04:07.295Z"
     },
     {
@@ -1699,7 +2109,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/tashfeenahmed/freellmapi",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/7cc59461b7cb4620428cf6a036b543caf6bec7623c5f7836531caa89b785aa45/tashfeenahmed/freellmapi",
+      "imageUrl": "https://opengraph.githubassets.com/e02df6a19c0eb8b953b889565fc21366b5b36f167e54e76ab940e48afb13b351/tashfeenahmed/freellmapi",
       "publishedAt": "2026-11-22T02:04:07.295Z"
     },
     {
@@ -1709,7 +2119,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/obra/superpowers",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/41d414e9d832812430c36ad9de62225470ba970861a3aa63a44a4afdbf6f34b2/obra/superpowers",
+      "imageUrl": "https://opengraph.githubassets.com/8af82363f52181df72ce630a63fdcb3fb8ce5f0b7a0096b88672730b9f79a61d/obra/superpowers",
       "publishedAt": "2026-11-22T02:04:07.295Z"
     },
     {
@@ -1719,7 +2129,7 @@
       "sourceName": "GitHub",
       "sourceUrl": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/591be9ff2670aaaf875cc976c7bf101d0dece330dbd69a38e5d8060dbcc851be/Ebony-Vinyl/dsh-our-free-model",
+      "imageUrl": "https://opengraph.githubassets.com/c40ac45d5fe4291c09b94549a2da1686f6089210cc8efa5bf6af8fb09459aae8/Ebony-Vinyl/dsh-our-free-model",
       "publishedAt": "2026-11-22T02:04:07.295Z"
     },
     {
@@ -1779,7 +2189,7 @@
       "sourceName": "GitHub · NousResearch/hermes-agent",
       "sourceUrl": "https://github.com/NousResearch/hermes-agent",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/3d324e53c3357c1265b752e913a119727197132a13e2102a8ca589037d7a9e3c/NousResearch/hermes-agent",
+      "imageUrl": "https://opengraph.githubassets.com/130e922b9d2a2b5968132d88f938b26d5351b8b5a2a153bb2d03a1afced41701/NousResearch/hermes-agent",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1789,7 +2199,7 @@
       "sourceName": "GitHub · milind-soni/OpenMausBot",
       "sourceUrl": "https://github.com/milind-soni/OpenMausBot",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/c4e8d899dff82e84e2b9788712138cdd65f094bb810f8a816be998751d1c48c4/milind-soni/OpenMausBot",
+      "imageUrl": "https://opengraph.githubassets.com/86de0493898f38ad67b731962a7e02853e575b19bf8fa9f1183439e7a1cd083a/milind-soni/OpenMausBot",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1799,7 +2209,7 @@
       "sourceName": "GitHub · openclaw/openclaw",
       "sourceUrl": "https://github.com/openclaw/openclaw",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/936ad6f867c4d9a4fac2f6844e47135601496a2b36597f5cb691e6cf9baa42fb/openclaw/openclaw",
+      "imageUrl": "https://opengraph.githubassets.com/fdaf50aba17267a426b1b5c8345d0d8e086ae86b829b4e696c0009439764a396/openclaw/openclaw",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1819,7 +2229,7 @@
       "sourceName": "GitHub · cloudflare/security-audit-skill",
       "sourceUrl": "https://github.com/cloudflare/security-audit-skill",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/812b9b0e7f697d4c06ca5c9649b451e48a1560d6a0dd08062a2ce305eb1765c1/cloudflare/security-audit-skill",
+      "imageUrl": "https://opengraph.githubassets.com/30d977094174a2bff357f40d5b5269625f90beed0da5d154bbffd2a976aca22c/cloudflare/security-audit-skill",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1829,7 +2239,7 @@
       "sourceName": "GitHub · stablyai/orca",
       "sourceUrl": "https://github.com/stablyai/orca",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/dc8a710539d9339e0e1c69d7512f539d07470ccdd5a3e6fb8c9989c94a866e3e/stablyai/orca",
+      "imageUrl": "https://opengraph.githubassets.com/48fb95729133da335e070a641be2f9d97a4d185e66ff62c215cb04e1742320e2/stablyai/orca",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1839,7 +2249,7 @@
       "sourceName": "GitHub · vercel-labs/agent-browser",
       "sourceUrl": "https://github.com/vercel-labs/agent-browser",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/4ab0af8251e9e646bf9a5f05c19116b0f7aa859c8b88b42290122322cf90f7c4/vercel-labs/agent-browser",
+      "imageUrl": "https://opengraph.githubassets.com/5700b168cb30c593f0d40741a80a7d5b6f3ebcaeb14f3af8f15a5d47307d071e/vercel-labs/agent-browser",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1849,7 +2259,7 @@
       "sourceName": "GitHub · affaan-m/ECC",
       "sourceUrl": "https://github.com/affaan-m/ECC",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/136f986f21e7e1411a7eeebbd9d9025f4ef4b34ae82fd28b9a0fd793b6a20436/affaan-m/ECC",
+      "imageUrl": "https://opengraph.githubassets.com/f9f74ea8e05427e1210acb980966901a6f37b45f39cef36986a5787e926fdcab/affaan-m/ECC",
       "publishedAt": "2026-11-21T05:03:17.583Z"
     },
     {
@@ -1869,7 +2279,7 @@
       "sourceName": "GitHub · HKUDS/CLI-Anything",
       "sourceUrl": "https://github.com/HKUDS/CLI-Anything",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/8915212f091afbba215a71bb50ed17dddb18fdce4299f54097f6c20dbfd40219/HKUDS/CLI-Anything",
+      "imageUrl": "https://opengraph.githubassets.com/ef521d577f701aed19644883fff4f48fe2fa3c4e51d5059685df2dae312f06cb/HKUDS/CLI-Anything",
       "publishedAt": "2026-11-21T03:45:52.889Z"
     },
     {
@@ -1889,7 +2299,7 @@
       "sourceName": "GitHub · pingdotgg/t3code",
       "sourceUrl": "https://github.com/pingdotgg/t3code",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/c7df2d99aea60798e4241f80e0d12718dbae0c59fd00d6836c3e14211b86480d/pingdotgg/t3code",
+      "imageUrl": "https://opengraph.githubassets.com/73aa0331ed557465c3209bb8462b85abf5a6704105a54112291c6d7d8dcdac76/pingdotgg/t3code",
       "publishedAt": "2026-11-21T03:45:52.889Z"
     },
     {
@@ -1999,7 +2409,7 @@
       "sourceName": "GitHub · rddmwmddr/android-ad-cleaner",
       "sourceUrl": "https://github.com/rddmwmddr/android-ad-cleaner",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/eaa21ed98d3c3991b71f86b1d4f78d09875af2c74fe0a2c6c9dd885dba55795a/rddmwmddr/android-ad-cleaner",
+      "imageUrl": "https://opengraph.githubassets.com/e2944a35768a06134ad5f1bdd2cfad5e381c05411dbdf0c5d7414bc8f149b23f/rddmwmddr/android-ad-cleaner",
       "publishedAt": "2026-11-18T00:00:00.000Z"
     },
     {
@@ -2089,7 +2499,7 @@
       "sourceName": "GitHub · erkamyaman/rust-anything",
       "sourceUrl": "https://github.com/erkamyaman/rust-anything",
       "category": "github",
-      "imageUrl": "https://repository-images.githubusercontent.com/1459971684/e23b2257-98c7-4ff9-b6c5-b0967d4eee7b",
+      "imageUrl": "https://repository-images.githubusercontent.com/1459971684/45485be8-dd9b-4caa-9e29-35dbccff7519",
       "publishedAt": "2026-11-16T12:10:36.000Z"
     },
     {
@@ -2109,7 +2519,7 @@
       "sourceName": "GitHub · ersinkoc/phonebox",
       "sourceUrl": "https://github.com/ersinkoc/phonebox",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/da7c1511073dc419a60ddee4e6081552b29850554a671c00d4dc6a4ff04f0b9f/ersinkoc/phonebox",
+      "imageUrl": "https://opengraph.githubassets.com/611896ee9858b71ae106c83dac999c24e92dd7900b3bd72c466f47af6189e0e7/ersinkoc/phonebox",
       "publishedAt": "2026-11-07T16:45:16.000Z"
     },
     {
@@ -2119,7 +2529,7 @@
       "sourceName": "GitHub · storytold/craft-anything",
       "sourceUrl": "https://github.com/storytold/craft-anything",
       "category": "github",
-      "imageUrl": "https://opengraph.githubassets.com/623f6c72859e4e1b36bad56ad5d279dcadd414f3ae9433e8966f84b0cfb53b88/storytold/craft-anything",
+      "imageUrl": "https://opengraph.githubassets.com/392aa72fd857ab5e5969554c063bf0a4e0fae6ce9ab011b09d3d9b83ad946846/storytold/craft-anything",
       "publishedAt": "2026-10-31T14:50:00.000Z"
     }
   ]
